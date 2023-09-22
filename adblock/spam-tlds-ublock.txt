@@ -7,8 +7,8 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 16 Sep 2023 10:20 UTC
-! Version: 2023.0916.1020.35
+! Last modified: 22 Sep 2023 22:41 UTC
+! Version: 2023.0922.2241.18
 ! Syntax: uBlock
 !
 ||agency^$doc,domain=~battlefield.agency|~baam.agency|~robotzebra.agency|~uphotel.agency|~ws.agency
@@ -50,7 +50,6 @@
 ||monster^$doc,domain=~egybest.monster|~yts.monster|~cloudcdn.monster|~fedi.monster|~rollenspiel.monster|~tts.monster|~vipbj.monster
 ||mov^$doc,domain=~david.mov
 ||name^$doc
-||nexus^$doc,domain=~fonts.nexus|~gamers.nexus|~uvc.nexus
 ||okinawa^$doc,domain=~aclub.okinawa|~activity.okinawa|~aquadrop.okinawa|~asatoyasuba.okinawa|~beachboys.okinawa|~churaumi.okinawa|~dancestudioon.okinawa|~diver.okinawa|~ecco.okinawa|~eight.okinawa|~emoh.okinawa|~fidelity.okinawa|~gukuru.okinawa|~holdbyhand.okinawa|~jupiter.okinawa|~kanoa.okinawa|~kerouac.okinawa|~kimishimagroup.okinawa|~kokorononekko.okinawa|~makeman.okinawa|~mansaku.okinawa|~minsyo.okinawa|~morinaga.okinawa|~naminouta.okinawa|~nanaironote.okinawa|~okmarine.okinawa|~pacificview.okinawa|~rentakun.okinawa|~retime.okinawa|~ryukyugobyou.okinawa|~saya.okinawa|~seek.okinawa|~seitai.okinawa|~selfstorage.okinawa|~sgt.okinawa|~shigaku.okinawa|~simplelife.okinawa|~sir.okinawa|~sisei.okinawa|~soilcure.okinawa|~strawberry.okinawa|~suba.okinawa|~suncoast.okinawa|~takakogyo.okinawa|~thekucha.okinawa|~tsukishiro.okinawa|~yamabuki.okinawa|~yorozu.okinawa|~zwwa.okinawa
 ||ooo^$doc,domain=~toast.ooo
 ||phd^$doc,domain=~rafael.phd
@@ -58,7 +57,7 @@
 ||quest^$doc,domain=~0x00.quest|~amble.quest|~bookshelf.quest|~dice.quest|~dont-panic.quest|~epochal.quest|~federation.quest|~galaxy.quest|~mylegendary.quest|~nic.quest|~prometheus.quest|~squash.quest|~teacher.quest|~theculture.quest|~toot.quest
 ||rest^$doc,domain=~crystals.rest
 ||review^$doc
-||rodeo^$doc
+||rodeo^$doc,domain=~raypeat.rodeo
 ||sbs^$doc
 ||skin^$doc
 ||space^$doc,domain=~searx.space|~ippen.space
