@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1695378660 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1695422100 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 22 Sep 2023 10:31 UTC
-; Version: 2023.0922.1031.40
+; Last modified: 22 Sep 2023 22:35 UTC
+; Version: 2023.0922.2235.55
 ; Syntax: RPZ
-; Number of entries: 21180
+; Number of entries: 21176
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -6136,8 +6136,6 @@ paintedover.com CNAME .
 *.paintedover.com CNAME .
 paitara.com CNAME .
 *.paitara.com CNAME .
-pakcoder.com CNAME .
-*.pakcoder.com CNAME .
 pallok.com CNAME .
 *.pallok.com CNAME .
 pandaclubbd.com CNAME .
@@ -10852,8 +10850,6 @@ guardaserie.irish CNAME .
 *.1377x.is CNAME .
 1movies.is CNAME .
 *.1movies.is CNAME .
-open.8a.is CNAME .
-*.open.8a.is CNAME .
 altadefinizione.is CNAME .
 *.altadefinizione.is CNAME .
 bmovies.is CNAME .
