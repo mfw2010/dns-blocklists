@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1695379500 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1695423000 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 22 Sep 2023 10:45 UTC
-; Version: 2023.0922.1045.46
+; Last modified: 22 Sep 2023 22:50 UTC
+; Version: 2023.0922.2250.23
 ; Syntax: RPZ
-; Number of entries: 20476
+; Number of entries: 20446
 ;
 bitcoin360.ai CNAME .
 *.bitcoin360.ai CNAME .
@@ -2118,8 +2118,6 @@ allenedmondsschuhe.com CNAME .
 *.allenedmondsschuhe.com CNAME .
 allesfur-baby.com CNAME .
 *.allesfur-baby.com CNAME .
-alleszumheizen.com CNAME .
-*.alleszumheizen.com CNAME .
 allgolfstore.com CNAME .
 *.allgolfstore.com CNAME .
 allhotelsmorocco.com CNAME .
@@ -3060,8 +3058,6 @@ bireada.com CNAME .
 *.bireada.com CNAME .
 shop.birkenseusale.com CNAME .
 *.shop.birkenseusale.com CNAME .
-birkenstockeusale.com CNAME .
-*.birkenstockeusale.com CNAME .
 birkenstocks-greece.com CNAME .
 *.birkenstocks-greece.com CNAME .
 birkenstocksgreece.com CNAME .
@@ -4870,8 +4866,6 @@ erasterry.com CNAME .
 *.erasterry.com CNAME .
 erectslim.com CNAME .
 *.erectslim.com CNAME .
-eregro.com CNAME .
-*.eregro.com CNAME .
 erektionspillen.com CNAME .
 *.erektionspillen.com CNAME .
 erektslim.com CNAME .
@@ -6024,8 +6018,6 @@ grill-accessories.com CNAME .
 *.grill-accessories.com CNAME .
 grillen-shop.com CNAME .
 *.grillen-shop.com CNAME .
-gritronic.com CNAME .
-*.gritronic.com CNAME .
 groceriesgoods.com CNAME .
 *.groceriesgoods.com CNAME .
 groceryandhome.com CNAME .
@@ -6332,8 +6324,6 @@ herrenway.com CNAME .
 *.herrenway.com CNAME .
 herter-logistik.com CNAME .
 *.herter-logistik.com CNAME .
-hexagonum-es.com CNAME .
-*.hexagonum-es.com CNAME .
 heybuye.com CNAME .
 *.heybuye.com CNAME .
 heydudeschuhe.com CNAME .
@@ -6752,8 +6742,6 @@ inoqd.com CNAME .
 *.inoqd.com CNAME .
 inov-8osterreich.com CNAME .
 *.inov-8osterreich.com CNAME .
-insiderlx.com CNAME .
-*.insiderlx.com CNAME .
 insolvenzamt.com CNAME .
 *.insolvenzamt.com CNAME .
 inspirasikus.com CNAME .
@@ -6824,8 +6812,6 @@ itemssurf.com CNAME .
 *.itemssurf.com CNAME .
 ittanas.com CNAME .
 *.ittanas.com CNAME .
-ivabriketts.com CNAME .
-*.ivabriketts.com CNAME .
 ivermectinkaufen.com CNAME .
 *.ivermectinkaufen.com CNAME .
 jackenpascher.com CNAME .
@@ -7078,8 +7064,6 @@ khbrz.com CNAME .
 *.khbrz.com CNAME .
 kiaranews.com CNAME .
 *.kiaranews.com CNAME .
-kickoff-bikes.com CNAME .
-*.kickoff-bikes.com CNAME .
 kidattirenew.com CNAME .
 *.kidattirenew.com CNAME .
 kidebro.com CNAME .
@@ -9352,8 +9336,6 @@ ownervogue.com CNAME .
 *.ownervogue.com CNAME .
 ownerwheels.com CNAME .
 *.ownerwheels.com CNAME .
-oyo-store.com CNAME .
-*.oyo-store.com CNAME .
 ozempickaufenn.com CNAME .
 *.ozempickaufenn.com CNAME .
 ozempickaufenohnerezept.com CNAME .
@@ -9994,8 +9976,6 @@ radiofavorite.com CNAME .
 *.radiofavorite.com CNAME .
 radioustrendy.com CNAME .
 *.radioustrendy.com CNAME .
-radlersport.com CNAME .
-*.radlersport.com CNAME .
 radteamtrikots.com CNAME .
 *.radteamtrikots.com CNAME .
 radyo-muzik.com CNAME .
@@ -10274,8 +10254,6 @@ resid3ncy.com CNAME .
 *.resid3ncy.com CNAME .
 restdiablo.com CNAME .
 *.restdiablo.com CNAME .
-restliss.com CNAME .
-*.restliss.com CNAME .
 retailbbq.com CNAME .
 *.retailbbq.com CNAME .
 retailcutlery.com CNAME .
@@ -13266,8 +13244,6 @@ vansmore.com CNAME .
 *.vansmore.com CNAME .
 vansscarpeit.com CNAME .
 *.vansscarpeit.com CNAME .
-vaomoe.com CNAME .
-*.vaomoe.com CNAME .
 variousballgames.com CNAME .
 *.variousballgames.com CNAME .
 variousgothic.com CNAME .
@@ -19326,8 +19302,6 @@ worldwidemoving.sg CNAME .
 *.24rabatt.shop CNAME .
 actoroubag.shop CNAME .
 *.actoroubag.shop CNAME .
-aileenmall.shop CNAME .
-*.aileenmall.shop CNAME .
 ajar.shop CNAME .
 *.ajar.shop CNAME .
 alltogether.shop CNAME .
@@ -19402,8 +19376,6 @@ danielsconto.shop CNAME .
 *.danielsconto.shop CNAME .
 deliverexp.shop CNAME .
 *.deliverexp.shop CNAME .
-deutsche-bike.shop CNAME .
-*.deutsche-bike.shop CNAME .
 devinsale.shop CNAME .
 *.devinsale.shop CNAME .
 digitliftz.shop CNAME .
@@ -20340,8 +20312,6 @@ corola.travel CNAME .
 *.corola.travel CNAME .
 bitcoineer.tv CNAME .
 *.bitcoineer.tv CNAME .
-bitindexai.tv CNAME .
-*.bitindexai.tv CNAME .
 century-21.uk CNAME .
 *.century-21.uk CNAME .
 ariacosmetics.co.uk CNAME .
