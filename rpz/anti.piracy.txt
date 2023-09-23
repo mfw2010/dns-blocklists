@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1695422100 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1695450060 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 22 Sep 2023 22:35 UTC
-; Version: 2023.0922.2235.55
+; Last modified: 23 Sep 2023 06:21 UTC
+; Version: 2023.0923.0621.50
 ; Syntax: RPZ
-; Number of entries: 21176
+; Number of entries: 21144
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1778,8 +1778,6 @@ tantifilm.clothing CNAME .
 *.123movieshub.cloud CNAME .
 5movies.cloud CNAME .
 *.5movies.cloud CNAME .
-altadefinizione.cloud CNAME .
-*.altadefinizione.cloud CNAME .
 altadefinizione01.cloud CNAME .
 *.altadefinizione01.cloud CNAME .
 bedro.cloud CNAME .
@@ -2126,8 +2124,6 @@ hdmovie99.co CNAME .
 *.hdmovie99.co CNAME .
 i-b.co CNAME .
 *.i-b.co CNAME .
-ibb.co CNAME .
-*.ibb.co CNAME .
 ilgeniodellostreaming.co CNAME .
 *.ilgeniodellostreaming.co CNAME .
 illimitestreaming.co CNAME .
@@ -4864,8 +4860,6 @@ hotlinkfiles.com CNAME .
 *.hotlinkfiles.com CNAME .
 hotlinkimage.com CNAME .
 *.hotlinkimage.com CNAME .
-hotstar.com CNAME .
-*.hotstar.com CNAME .
 booter-sales.hourb.com CNAME .
 *.booter-sales.hourb.com CNAME .
 house-of-usenet.com CNAME .
@@ -5342,12 +5336,6 @@ torrents.linuxmint.com CNAME .
 *.torrents.linuxmint.com CNAME .
 linxdown.com CNAME .
 *.linxdown.com CNAME .
-share.live.com CNAME .
-*.share.live.com CNAME .
-skydrive.live.com CNAME .
-*.skydrive.live.com CNAME .
-storage.live.com CNAME .
-*.storage.live.com CNAME .
 livefilestore.com CNAME .
 *.livefilestore.com CNAME .
 liveiccworldcup.com CNAME .
@@ -6496,6 +6484,8 @@ rapidrar.com CNAME .
 *.rapidrar.com CNAME .
 rapidseedbox.com CNAME .
 *.rapidseedbox.com CNAME .
+rapidshare.com CNAME .
+*.rapidshare.com CNAME .
 rapidsharemix.com CNAME .
 *.rapidsharemix.com CNAME .
 rapidsharing.com CNAME .
@@ -6830,8 +6820,6 @@ shogiroom.com CNAME .
 *.shogiroom.com CNAME .
 shokweb.com CNAME .
 *.shokweb.com CNAME .
-shorturl.com CNAME .
-*.shorturl.com CNAME .
 showtimebd.com CNAME .
 *.showtimebd.com CNAME .
 siambit.com CNAME .
@@ -9014,8 +9002,6 @@ daddylive.es CNAME .
 *.daddylive.es CNAME .
 bt.dvdquorum.es CNAME .
 *.bt.dvdquorum.es CNAME .
-freebookspot.es CNAME .
-*.freebookspot.es CNAME .
 hdcity.es CNAME .
 *.hdcity.es CNAME .
 hiboox.es CNAME .
@@ -9804,8 +9790,6 @@ streamingcommunity.golf CNAME .
 *.streamingcommunity.golf CNAME .
 tantifilm.golf CNAME .
 *.tantifilm.golf CNAME .
-worldwind.arc.nasa.gov CNAME .
-*.worldwind.arc.nasa.gov CNAME .
 apibay.gq CNAME .
 *.apibay.gq CNAME .
 tracker.btsync.gq CNAME .
@@ -11850,8 +11834,6 @@ tracker.lintk.me CNAME .
 *.tracker.lintk.me CNAME .
 tracker.lztr.me CNAME .
 *.tracker.lztr.me CNAME .
-mgnet.me CNAME .
-*.mgnet.me CNAME .
 mkvking.me CNAME .
 *.mkvking.me CNAME .
 tracker.moeking.me CNAME .
@@ -12980,8 +12962,6 @@ dragons-den.net CNAME .
 *.dragons-den.net CNAME .
 dramaqu.net CNAME .
 *.dramaqu.net CNAME .
-dropfiles.net CNAME .
-*.dropfiles.net CNAME .
 dubbedanime.net CNAME .
 *.dubbedanime.net CNAME .
 duboku.net CNAME .
@@ -13956,8 +13936,6 @@ tracker.skyts.net CNAME .
 *.tracker.skyts.net CNAME .
 sladinki007.net CNAME .
 *.sladinki007.net CNAME .
-sline.net CNAME .
-*.sline.net CNAME .
 smileplex.net CNAME .
 *.smileplex.net CNAME .
 smilestv.net CNAME .
@@ -14406,8 +14384,6 @@ youboot.net CNAME .
 *.youboot.net CNAME .
 yourfile.net CNAME .
 *.yourfile.net CNAME .
-yourlifeupdated.net CNAME .
-*.yourlifeupdated.net CNAME .
 yournetcommunications.net CNAME .
 *.yournetcommunications.net CNAME .
 youronlinemovies.net CNAME .
@@ -18860,8 +18836,6 @@ cracked.to CNAME .
 *.cracked.to CNAME .
 cricfree.to CNAME .
 *.cricfree.to CNAME .
-cyonix.to CNAME .
-*.cyonix.to CNAME .
 d123movies.to CNAME .
 *.d123movies.to CNAME .
 darklight.to CNAME .
@@ -19214,8 +19188,6 @@ trec.to CNAME .
 *.trec.to CNAME .
 turbo.to CNAME .
 *.turbo.to CNAME .
-ul.to CNAME .
-*.ul.to CNAME .
 uloz.to CNAME .
 *.uloz.to CNAME .
 unblocked.to CNAME .
@@ -19542,8 +19514,6 @@ bblc.tv CNAME .
 *.bblc.tv CNAME .
 biggapan.tv CNAME .
 *.biggapan.tv CNAME .
-bilibili.tv CNAME .
-*.bilibili.tv CNAME .
 buffstreams.tv CNAME .
 *.buffstreams.tv CNAME .
 tracker.bwtorrents.tv CNAME .
@@ -19576,8 +19546,6 @@ duboku.tv CNAME .
 *.duboku.tv CNAME .
 efilmy.tv CNAME .
 *.efilmy.tv CNAME .
-einthusan.tv CNAME .
-*.einthusan.tv CNAME .
 ettv.tv CNAME .
 *.ettv.tv CNAME .
 eurostreaming.tv CNAME .
