@@ -52,8 +52,8 @@
 | [Light](#light)             | 187657<br>70619     |  |   |   |  | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
 | [Normal](#normal)       | 715078<br>177037     |  |   |  | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
 | [Pro](#pro)              | 959356<br>267920         |  |  | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
-| [Pro++](#proplus)    | 1184808<br>338004 |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :green_circle: | :yellow_square: |
-| [Ultimate](#ultimate)    | 1403873<br>426195 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: |
+| [Pro++](#proplus)    | 1184714<br>338002 |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :green_circle: | :yellow_square: |
+| [Ultimate](#ultimate)    | 1403779<br>426193 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: |
            
 :green_circle: contains the list named in the column caption       
 :yellow_square: partially contains the list named in the column caption       
@@ -118,7 +118,7 @@
          
 *More aggressive version of the Multi PRO blocklist. It may contain few false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *1184808 domains/hosts - 338004 compressed domains*               
+**Entries:** *1184714 domains/hosts - 338002 compressed domains*               
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -139,7 +139,7 @@
          
 ***NOTE:*** *META graph trackers are blocked in Ultimate. This restricts the use of Facebook/Instagram and Facebook Messenger. To use Facebook/Instagram with Ultimate, unblock the following domains: [META Tracker](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/share/facebook.txt)*
        
-**Entries:** *1403873 domains/hosts - 426195 compressed domains*               
+**Entries:** *1403779 domains/hosts - 426193 compressed domains*               
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -244,7 +244,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *2591 compressed domains*           
+**Entries:** *2592 compressed domains*           
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
