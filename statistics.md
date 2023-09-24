@@ -34,8 +34,8 @@
  10 |      52% |   0% |     48% |     122 | Native Tracker Microsoft (Windows, Office, MSN)
  11 |      93% |   4% |      3% |    7111 | Denylist Base
  12 |      99% |   0% |      1% |   37600 | Basic Extension
- 13 |      89% |  10% |      1% |  118634 | AdGuard FirstParty (DNS, Base, International, Annoyances, Mobile, Spyware, Social, disguised Ads)
- 14 |      85% |  11% |      4% |  145427 | EasyList FirstParty (List, Privacy, Interanational, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 13 |      89% |  10% |      1% |  118634 | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
+ 14 |      85% |  11% |      4% |  145427 | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  15 |      85% |  15% |      0% |    5063 | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  16 |     100% |   0% |      0% |   21140 | Threat Intelligence Feeds Medium
  17 |      81% |  19% |      0% |   19085 | Analytics/Metrics Extension
@@ -58,8 +58,8 @@
  10 |      52% |   0% |     48% |     122 | Native Tracker Microsoft (Windows, Office, MSN)
  11 |      94% |   4% |      2% |    7111 | Denylist Base
  12 |      99% |   0% |      1% |   37600 | Basic Extension
- 13 |      89% |  10% |      1% |  118634 | AdGuard FirstParty (DNS, Base, International, Annoyances, Mobile, Spyware, Social, disguised Ads)
- 14 |      85% |  11% |      4% |  145427 | EasyList FirstParty (List, Privacy, Interanational, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 13 |      89% |  10% |      1% |  118634 | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
+ 14 |      85% |  11% |      4% |  145427 | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  15 |      85% |  15% |      0% |    5063 | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  16 |      81% |  19% |      0% |   19085 | Analytics/Metrics Extension
  17 |      99% |   0% |      1% |  136901 | Balanced Extension
@@ -89,8 +89,8 @@
  15 |     100% |   0% |      0% |   63178 | Threat Intelligence Feeds Normal
  16 |     100% |   0% |      0% |   73750 | Pop-Up Ads
  17 |      99% |   0% |      1% |   64457 | Advanced Extension
- 18 |      58% |   6% |     36% |  194186 | AdGuard MultiParty (DNS, Base, International, Annoyances, Mobile, Spyware, Social, disguised Ads adguard-extended.domains.txt Trackers)
- 19 |      85% |  12% |      3% |  197806 | EasyList MultiParty (List, Privacy, Interanational, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 18 |      58% |   6% |     36% |  194186 | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
+ 19 |      85% |  12% |      3% |  197806 | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  20 |      84% |  15% |      1% |    5513 | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  21 |      75% |  14% |     11% |    6741 | Tracking Extension
  22 |      99% |   0% |      1% |  430102 | Aggressive Extension
@@ -117,8 +117,8 @@
  14 |     100% |   0% |      0% |   63178 | Threat Intelligence Feeds Normal
  15 |     100% |   0% |      0% |   73750 | Pop-Up Ads
  16 |     100% |   0% |      0% |   64457 | Advanced Extension
- 17 |      59% |   6% |     35% |  194186 | AdGuard MultiParty (DNS, Base, International, Annoyances, Mobile, Spyware, Social, disguised Ads adguard-extended.domains.txt Trackers)
- 18 |      87% |  12% |      1% |  197806 | EasyList MultiParty (List, Privacy, Interanational, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 17 |      59% |   6% |     35% |  194186 | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
+ 18 |      87% |  12% |      1% |  197806 | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  19 |      84% |  15% |      1% |    5513 | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  20 |      79% |  14% |      7% |    6741 | Tracking Extension
  21 |     100% |   0% |      0% |  430102 | Aggressive Extension
