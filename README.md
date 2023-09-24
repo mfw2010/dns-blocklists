@@ -53,7 +53,7 @@
 | [Normal](#normal)       | 715078<br>177037     |  |   |  | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
 | [Pro](#pro)              | 959356<br>267920         |  |  | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
 | [Pro++](#proplus)    | 1184714<br>338002 |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :green_circle: | :yellow_square: |
-| [Ultimate](#ultimate)    | 1403779<br>426193 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: |
+| [Ultimate](#ultimate)    | 1403778<br>426192 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: |
            
 :green_circle: contains the list named in the column caption       
 :yellow_square: partially contains the list named in the column caption       
@@ -139,7 +139,7 @@
          
 ***NOTE:*** *META graph trackers are blocked in Ultimate. This restricts the use of Facebook/Instagram and Facebook Messenger. To use Facebook/Instagram with Ultimate, unblock the following domains: [META Tracker](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/share/facebook.txt)*
        
-**Entries:** *1403779 domains/hosts - 426193 compressed domains*               
+**Entries:** *1403778 domains/hosts - 426192 compressed domains*               
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -213,7 +213,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
               		
-**Entries:** *1569437 domains/hosts - 900943 compressed domains*           
+**Entries:** *1534052 domains/hosts - 879245 compressed domains*           
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
