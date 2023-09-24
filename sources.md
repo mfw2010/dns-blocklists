@@ -8,7 +8,7 @@ https://azorult-tracker.net/api/list/domain?format=plain
 https://big.oisd.nl
 https://big.oisd.nl/domains
 https://cert-agid.gov.it/download/log4shell-iocs-raw-domain.txt
-https://dl.red.flag.domains/red.flag.domains_fr.txt
+https://dl.red.flag.domains/red.flag.domains.txt
 https://easylist-downloads.adblockplus.org/advblock.txt
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 https://easylist-downloads.adblockplus.org/bulgarian_list.txt
@@ -189,6 +189,8 @@ https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spam
 https://raw.githubusercontent.com/metamask/eth-phishing-detect/master/src/hosts.txt
 https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
+https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
+https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-NEW-today.txt
 https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
 https://raw.githubusercontent.com/mtxadmin/ublock/master/hosts/_all_bets_are_off
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
