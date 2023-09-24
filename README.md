@@ -25,22 +25,23 @@
 5. [Multi pro++](#proplus) - *Sweeper: Maximum protection (more aggressive)*
 6. [Multi ultimate](#ultimate) - *Ultimate Sweeper: Aggressive protection*
 7. [Fake](#fake) - *Protects against internet scams, traps & fakes!*
-8. [Threat Intelligence Feeds](#tif) - *Increases security significantly! (Recommended)*
-9. [DoH/VPN/TOR/Proxy Bypass](#bypass) - *Prevent methods to bypass your DNS!*
-10. [Safesearch not supported](#safesearch) - *Prevent the use of search engines that do not support safesearch!*
-11. [Dynamic DNS](#dyndns) - *Protects against the malicious use of dynamic DNS services!*
-12. [Badware Hoster](#hoster) - *Protects against the malicious use of free host services!*
-13. [Most Abused TLDs](#tlds) - *Protects against known malicious Top Level Domains!*
-14. [Anti Piracy](#piracy) - *Protects against piracy!*
-15. [Gambling](#gambling) - *Protects against gambling content!*
-16. [Personal](#personal) - *My manually maintained denylist*
-17. [Native Tracker](#native) - *Broadband tracker of devices, services and operating systems*
-18. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - *Leave a star (top right)!*
-19. [Recommendation](#recommendation)
-20. [Online DNS Services](#dnsservices) : [AdGuardDNS](#adguarddns) - [ControlD](#controld) - [NextDNS](#nextdns) - [RethinkDNS](#rethinkdns) - [DNSwarden](#dnswarden) - [DNSforge](#dnsforge) - [OpenBLD.net](#openbld)
-21. [About](#about) : [Contact](#contact) - [Groups](#groups) - [Repository](#repository) - [Referral Domains](#referral) - [Support Me](#support) - [Sponsors](#sponsors)
-22. [Statistics](statistics.md) - [Sources](sources.md) 
-23. [Mirror](https://gitlab.com/hagezi/mirror/-/tree/main/dns-blocklists) - *Mirrored files of the block lists on GitLab*
+8. [Pop-Up Ads](#popupads) - *Protects against annoying pop-up ads!*
+9. [Threat Intelligence Feeds](#tif) - *Increases security significantly! (Recommended)*
+10. [DoH/VPN/TOR/Proxy Bypass](#bypass) - *Prevent methods to bypass your DNS!*
+11. [Safesearch not supported](#safesearch) - *Prevent the use of search engines that do not support safesearch!*
+12. [Dynamic DNS](#dyndns) - *Protects against the malicious use of dynamic DNS services!*
+13. [Badware Hoster](#hoster) - *Protects against the malicious use of free host services!*
+14. [Most Abused TLDs](#tlds) - *Protects against known malicious Top Level Domains!*
+15. [Anti Piracy](#piracy) - *Protects against piracy!*
+16. [Gambling](#gambling) - *Protects against gambling content!*
+17. [Personal](#personal) - *My manually maintained denylist*
+18. [Native Tracker](#native) - *Broadband tracker of devices, services and operating systems*
+19. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - *Leave a star (top right)!*
+20. [Recommendation](#recommendation)
+21. [Online DNS Services](#dnsservices) : [AdGuardDNS](#adguarddns) - [ControlD](#controld) - [NextDNS](#nextdns) - [RethinkDNS](#rethinkdns) - [DNSwarden](#dnswarden) - [DNSforge](#dnsforge) - [OpenBLD.net](#openbld)
+22. [About](#about) : [Contact](#contact) - [Groups](#groups) - [Repository](#repository) - [Referral Domains](#referral) - [Support Me](#support) - [Sponsors](#sponsors)
+23. [Statistics](statistics.md) - [Sources](sources.md) 
+24. [Mirror](https://gitlab.com/hagezi/mirror/-/tree/main/dns-blocklists) - *Mirrored files of the block lists on GitLab*
 
 ### ***Multi - Cleans the Internet and protects your privacy!*** <a name="overview"></a>
 *An all in one DNS blocklist in **various versions (light, normal, pro, pro++ and ultimate)**. It can be used as a stand alone blocklist. For every region. Blocks ads, affiliate, tracking, metrics, telemetry, fake, phishing, malware, scam, coins and other "crap". Based on [various blocklists](sources.md). No, they are not just block lists cobbled together from different sources. They have been optimized and extended to efficiently "clean the Internet" in all areas.*
@@ -174,6 +175,30 @@
 | Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/fake.txt) | YogaDNS, Nebulo |
 | Wildcard<br>Domains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake-onlydomains.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/fake-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/fake.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/fake.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
+
+**Expires:** *Updated regularly*
+
+---
+
+### ***Pop-Up Ads - Protects against annoying pop-up ads!*** <a name="popupads"></a>
+*An blocklist for blocking pop-up ads.*         
+        
+|             | Light          | Normal         | Pro            | Pro++          | Ultimate       |
+|:-----------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
+| Included in | :x: | :x: | :green_circle: | :green_circle: | :green_circle: |
+
+:green_circle: yes :yellow_square: partially :x: no
+		
+**Entries:** *73750 compressed domains*           
+       
+| Format | Links | Can be used for |
+|:-------|:-----|:----------------|
+| Adblock  | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/popupads.txt) | PiHole (FTL >= v5.22), AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave, AdNauseam |
+| Unbound  | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/popupads.blacklist.conf)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/popupads.blacklist.conf) | Unbound, pfBlockerNG (DNSBL Groups)  |
+| DNSMasq  | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/popupads.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/popupads.txt) | DNSMasq, adblock-lean  | 
+| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/popupads.txt) | YogaDNS, Nebulo |
+| Wildcard<br>Domains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads-onlydomains.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/popupads-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| RPZ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/popupads.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/popupads.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 **Expires:** *Updated regularly*
 
