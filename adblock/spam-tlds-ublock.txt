@@ -7,8 +7,8 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 24 Sep 2023 10:37 UTC
-! Version: 2023.0924.1037.29
+! Last modified: 24 Sep 2023 12:57 UTC
+! Version: 2023.0924.1257.33
 ! Syntax: uBlock
 !
 ||agency^$doc,domain=~battlefield.agency|~baam.agency|~robotzebra.agency|~uphotel.agency|~ws.agency
@@ -20,11 +20,9 @@
 ||bio^$doc
 ||biz^$doc,domain=~movabletype.biz|~luckysbarbershop.biz|~beiniz.biz|~cyberciti.biz|~slussen.biz
 ||boats^$doc
-||bookingcomdetails.
 ||boston^$doc
 ||boutique^$doc
 ||buzz^$doc,domain=~allthe.buzz|~awful.buzz|~cliq.buzz|~montpellier.buzz|~sideb.buzz|~williamsonday.buzz
-||cdn.discordapp.com/attachments/*/*/svchost.exe|~$all
 ||cf^$doc,domain=~google.cf|~rths.cf|~acap.cf
 ||cfd^$doc,domain=~frcoal.cfd
 ||cyou^$doc
@@ -47,7 +45,6 @@
 ||loans^$doc
 ||makeup^$doc
 ||market^$doc,domain=~otto.market
-||mediafire.com/file/*/NewSetup_Use_2023_Password.rar/file^$doc
 ||ml^$doc,domain=~aire.ml|~amap.ml|~beatbump.ml|~birdkey.ml|~debula.ml|~dmml.ml|~esparrec.ml|~exp0.ml|~fedi.ml|~fmhy.ml|~ghostcloud.ml|~google.ml|~guya.ml|~info-matin.ml|~kawauso.ml|~leam.ml|~lemmy.ml|~lemmygrad.ml|~lingva.ml|~loma.ml|~masto.ml|~mastodon.ml|~mastodonte.ml|~melody.ml|~nothingprivate.ml|~precure.ml|~prompt.ml|~stilic.ml|~sumanko.ml|~we-moon.ml
 ||mom^$doc
 ||monster^$doc,domain=~egybest.monster|~yts.monster|~cloudcdn.monster|~fedi.monster|~rollenspiel.monster|~tts.monster|~vipbj.monster
@@ -68,7 +65,6 @@
 ||tk^$doc,domain=~adistance.tk|~bloatcat.tk|~bonzibuddy.tk|~bryla.tk|~bstweaker.tk|~budterence.tk|~c-r-t.tk|~c0d3c.tk|~censurion.tk|~china996.tk|~cuso.tk|~devhonk.tk|~dlyang.tk|~google.tk|~goshujin.tk|~gotofap.tk|~graph.tk|~grazziecorp.tk|~handicapped.tk|~heggadrone.tk|~helene.tk|~kabi.tk|~lameni.tk|~leroymcqy.tk|~loveisgrief.tk|~msqtdn.tk|~pube.tk|~rainer-zufall.tk|~sironi.tk|~takiverse.tk|~tokelau-info.tk|~webdev189.tk|~xn--qubec-csa.tk|~zete.tk
 ||tokyo^$doc
 ||top^$doc,domain=~caitlin.top|~corriente.top|~gdtot.top|~nicenature.top|~reminder.top|~magocoro.top|~castlevania.top|~suiten.top|~shucks.top|~1stream.top|~ambr.top|~techblog.top|~changlam10.top|~changlam11.top|~pdcdn1.top|~mastodon.top|~pressplay.top|~chillx.top|~strims.top|~thedesk.top|~audioforyou.top
-||transfer.sh/get/*/svchost.exe|~$all
 ||uno^$doc
 ||voto^$doc
 ||website^$doc
