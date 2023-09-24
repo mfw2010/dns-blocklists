@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1695509460 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1695552360 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,8 +7,8 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 23 Sep 2023 22:51 UTC
-; Version: 2023.0923.2251.54
+; Last modified: 24 Sep 2023 10:46 UTC
+; Version: 2023.0924.1046.36
 ; Syntax: RPZ
 ; Number of entries: 20446
 ;
@@ -15344,6 +15344,8 @@ fuehrungszeugnis-online-beantragen.de CNAME .
 *.fuehrungszeugnis-online-beantragen.de CNAME .
 fuesschentraeume.de CNAME .
 *.fuesschentraeume.de CNAME .
+funkeln-technik.de CNAME .
+*.funkeln-technik.de CNAME .
 funkelnelektronik.de CNAME .
 *.funkelnelektronik.de CNAME .
 funswan.de CNAME .
@@ -16554,8 +16556,6 @@ monokompakt.de CNAME .
 *.monokompakt.de CNAME .
 montecjacke.de CNAME .
 *.montecjacke.de CNAME .
-moonplay.de CNAME .
-*.moonplay.de CNAME .
 morenius.de CNAME .
 *.morenius.de CNAME .
 mosano.de CNAME .
@@ -17170,6 +17170,8 @@ replikuhrenshop.de CNAME .
 *.replikuhrenshop.de CNAME .
 repuhren.de CNAME .
 *.repuhren.de CNAME .
+restaurantnamaskar.de CNAME .
+*.restaurantnamaskar.de CNAME .
 retour-lager.de CNAME .
 *.retour-lager.de CNAME .
 revolutzajam.de CNAME .
@@ -18184,8 +18186,6 @@ wir-sind-goldhandel.de CNAME .
 *.wir-sind-goldhandel.de CNAME .
 wireplay.de CNAME .
 *.wireplay.de CNAME .
-wittenberger-hof.de CNAME .
-*.wittenberger-hof.de CNAME .
 wj-tag.de CNAME .
 *.wj-tag.de CNAME .
 wohlrab-handel.de CNAME .
