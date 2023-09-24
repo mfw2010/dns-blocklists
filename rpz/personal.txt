@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1695471660 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1695515400 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Personal DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 23 Sep 2023 12:21 UTC
-; Version: 2023.0923.1221.50
+; Last modified: 24 Sep 2023 00:30 UTC
+; Version: 2023.0924.0030.48
 ; Syntax: RPZ
-; Number of entries: 106024
+; Number of entries: 106046
 ;
 marketing.globalpointofcare.abbott CNAME .
 *.marketing.globalpointofcare.abbott CNAME .
@@ -1702,6 +1702,8 @@ clearsale.com.br CNAME .
 *.clearsale.com.br CNAME .
 ad.clicrbs.com.br CNAME .
 *.ad.clicrbs.com.br CNAME .
+clinicaalphamed.com.br CNAME .
+*.clinicaalphamed.com.br CNAME .
 correiodecarajas.com.br CNAME .
 *.correiodecarajas.com.br CNAME .
 analytics.dataroyal.com.br CNAME .
@@ -11930,6 +11932,8 @@ andayiyuan.com CNAME .
 *.andayiyuan.com CNAME .
 analytics.awview.andersenwindows.com CNAME .
 *.analytics.awview.andersenwindows.com CNAME .
+andhthrewdo.com CNAME .
+*.andhthrewdo.com CNAME .
 andhttz.com CNAME .
 *.andhttz.com CNAME .
 andirapoops.com CNAME .
@@ -12292,6 +12296,8 @@ log1.apkomega.com CNAME .
 *.log1.apkomega.com CNAME .
 apkorcb.com CNAME .
 *.apkorcb.com CNAME .
+aplainmpatoio.com CNAME .
+*.aplainmpatoio.com CNAME .
 aplikacii.com CNAME .
 *.aplikacii.com CNAME .
 apmcunjha.com CNAME .
@@ -15886,6 +15892,8 @@ somnit.blinkfitness.com CNAME .
 *.somnit.blinkfitness.com CNAME .
 blinkjork.com CNAME .
 *.blinkjork.com CNAME .
+blinkpainmanly.com CNAME .
+*.blinkpainmanly.com CNAME .
 analytics.blippar.com CNAME .
 *.analytics.blippar.com CNAME .
 blis.com CNAME .
@@ -18702,6 +18710,8 @@ chartboosts.com CNAME .
 *.chartboosts.com CNAME .
 v-collector.dp.aws.charter.com CNAME .
 *.v-collector.dp.aws.charter.com CNAME .
+charterunwelcomealibi.com CNAME .
+*.charterunwelcomealibi.com CNAME .
 charuscuisine.com CNAME .
 *.charuscuisine.com CNAME .
 analytics.chase.com CNAME .
@@ -19058,6 +19068,8 @@ chullohagrode.com CNAME .
 *.chullohagrode.com CNAME .
 chultoux.com CNAME .
 *.chultoux.com CNAME .
+chunkstoreycurled.com CNAME .
+*.chunkstoreycurled.com CNAME .
 chunkycactus.com CNAME .
 *.chunkycactus.com CNAME .
 chunmiaosh.com CNAME .
@@ -31476,6 +31488,8 @@ gsecurecontent.com CNAME .
 *.gsecurecontent.com CNAME .
 gsfcloud.com CNAME .
 *.gsfcloud.com CNAME .
+cdn.gsght.com CNAME .
+*.cdn.gsght.com CNAME .
 logs.gshopper.com CNAME .
 *.logs.gshopper.com CNAME .
 gsiquick.com CNAME .
@@ -59040,6 +59054,8 @@ strpjmp.com CNAME .
 *.strpjmp.com CNAME .
 structurerod.com CNAME .
 *.structurerod.com CNAME .
+strugglecookingtechnically.com CNAME .
+*.strugglecookingtechnically.com CNAME .
 strungglancedrunning.com CNAME .
 *.strungglancedrunning.com CNAME .
 struq.com CNAME .
@@ -64082,6 +64098,8 @@ uniqueabund.com CNAME .
 *.uniqueabund.com CNAME .
 popup-static.unisender.com CNAME .
 *.popup-static.unisender.com CNAME .
+united-dannains.com CNAME .
+*.united-dannains.com CNAME .
 unitedctc.com CNAME .
 *.unitedctc.com CNAME .
 telemetry.unitrends.com CNAME .
@@ -91442,6 +91460,8 @@ orbitnetwork.net CNAME .
 *.orbitnetwork.net CNAME .
 tracker-ken.ortb.net CNAME .
 *.tracker-ken.ortb.net CNAME .
+osarmapa.net CNAME .
+*.osarmapa.net CNAME .
 osqa.net CNAME .
 *.osqa.net CNAME .
 ossmightyenar.net CNAME .
@@ -94004,6 +94024,8 @@ vidsbig.online CNAME .
 *.vidsbig.online CNAME .
 vidsbranch.online CNAME .
 *.vidsbranch.online CNAME .
+vidschannel.online CNAME .
+*.vidschannel.online CNAME .
 vietjet.online CNAME .
 *.vietjet.online CNAME .
 vvtadblk.online CNAME .
@@ -99046,8 +99068,6 @@ ferumshop.su CNAME .
 *.ferumshop.su CNAME .
 fromru.su CNAME .
 *.fromru.su CNAME .
-goo.su CNAME .
-*.goo.su CNAME .
 leads.su CNAME .
 *.leads.su CNAME .
 people-group.su CNAME .
@@ -99250,6 +99270,8 @@ projectagora.tech CNAME .
 *.projectagora.tech CNAME .
 purlingmoonmen.tech CNAME .
 *.purlingmoonmen.tech CNAME .
+revanced.tech CNAME .
+*.revanced.tech CNAME .
 revhunter.tech CNAME .
 *.revhunter.tech CNAME .
 rhemistdimyary.tech CNAME .
@@ -104978,6 +105000,8 @@ oueia.xyz CNAME .
 *.oueia.xyz CNAME .
 oulrukry.xyz CNAME .
 *.oulrukry.xyz CNAME .
+oungoowe.xyz CNAME .
+*.oungoowe.xyz CNAME .
 ounsamie.xyz CNAME .
 *.ounsamie.xyz CNAME .
 ourgoldpiecwe.xyz CNAME .
