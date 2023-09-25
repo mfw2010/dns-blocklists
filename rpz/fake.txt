@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1695552360 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1695639360 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 24 Sep 2023 10:46 UTC
-; Version: 2023.0924.1046.36
+; Last modified: 25 Sep 2023 10:56 UTC
+; Version: 2023.0925.1056.03
 ; Syntax: RPZ
-; Number of entries: 20446
+; Number of entries: 20440
 ;
 bitcoin360.ai CNAME .
 *.bitcoin360.ai CNAME .
@@ -8952,8 +8952,6 @@ onlinekohler.com CNAME .
 *.onlinekohler.com CNAME .
 onlineladywear.com CNAME .
 *.onlineladywear.com CNAME .
-onlinelebenslauf.com CNAME .
-*.onlinelebenslauf.com CNAME .
 onlinemaripe.com CNAME .
 *.onlinemaripe.com CNAME .
 onlineoutdoorsnew.com CNAME .
@@ -17182,12 +17180,8 @@ rhein-entree.de CNAME .
 *.rhein-entree.de CNAME .
 rhein-trends24.de CNAME .
 *.rhein-trends24.de CNAME .
-rheineule.de CNAME .
-*.rheineule.de CNAME .
 rheintulpen.de CNAME .
 *.rheintulpen.de CNAME .
-rheinwing.de CNAME .
-*.rheinwing.de CNAME .
 rheumatopia.de CNAME .
 *.rheumatopia.de CNAME .
 rhs-versand.de CNAME .
