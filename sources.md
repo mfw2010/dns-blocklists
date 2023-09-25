@@ -189,8 +189,6 @@ https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spam
 https://raw.githubusercontent.com/metamask/eth-phishing-detect/master/src/hosts.txt
 https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
-https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-NEW-today.txt
 https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
 https://raw.githubusercontent.com/mtxadmin/ublock/master/hosts/_all_bets_are_off
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
