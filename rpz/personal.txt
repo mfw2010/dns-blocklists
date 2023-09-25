@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1695558420 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1695601380 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Personal DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 24 Sep 2023 12:27 UTC
-; Version: 2023.0924.1227.08
+; Last modified: 25 Sep 2023 00:23 UTC
+; Version: 2023.0925.0023.46
 ; Syntax: RPZ
-; Number of entries: 106128
+; Number of entries: 106140
 ;
 marketing.globalpointofcare.abbott CNAME .
 *.marketing.globalpointofcare.abbott CNAME .
@@ -2450,6 +2450,8 @@ myserveur855.cc CNAME .
 *.myserveur855.cc CNAME .
 naaflwc.cc CNAME .
 *.naaflwc.cc CNAME .
+nba55.cc CNAME .
+*.nba55.cc CNAME .
 news-acibaji.cc CNAME .
 *.news-acibaji.cc CNAME .
 news-anesaw.cc CNAME .
@@ -10630,6 +10632,8 @@ fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com CNAME .
 *.fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com CNAME .
 vns86.oss-cn-hongkong.aliyuncs.com CNAME .
 *.vns86.oss-cn-hongkong.aliyuncs.com CNAME .
+ky891.oss-cn-shenzhen.aliyuncs.com CNAME .
+*.ky891.oss-cn-shenzhen.aliyuncs.com CNAME .
 sz88.oss-cn-shenzhen.aliyuncs.com CNAME .
 *.sz88.oss-cn-shenzhen.aliyuncs.com CNAME .
 appgiftwall.oss-us-west-1.aliyuncs.com CNAME .
@@ -17656,6 +17660,8 @@ securestats.cafepress.com CNAME .
 *.securestats.cafepress.com CNAME .
 stats.cafepress.com CNAME .
 *.stats.cafepress.com CNAME .
+caffeinecontainerakin.com CNAME .
+*.caffeinecontainerakin.com CNAME .
 cagesscan.com CNAME .
 *.cagesscan.com CNAME .
 analytics.cahcommtech.com CNAME .
@@ -51838,6 +51844,8 @@ rainyrule.com CNAME .
 *.rainyrule.com CNAME .
 raisabook.com CNAME .
 *.raisabook.com CNAME .
+collector.raisin.com CNAME .
+*.collector.raisin.com CNAME .
 raisingsupportive.com CNAME .
 *.raisingsupportive.com CNAME .
 rakhen.com CNAME .
@@ -54710,6 +54718,8 @@ saviasistemas.com CNAME .
 *.saviasistemas.com CNAME .
 savingdinner.com CNAME .
 *.savingdinner.com CNAME .
+collector.savingglobal.com CNAME .
+*.collector.savingglobal.com CNAME .
 savingshyleg.com CNAME .
 *.savingshyleg.com CNAME .
 savouryadolescent.com CNAME .
@@ -57806,6 +57816,8 @@ sortable.com CNAME .
 *.sortable.com CNAME .
 sortext.com CNAME .
 *.sortext.com CNAME .
+sortyellowapples.com CNAME .
+*.sortyellowapples.com CNAME .
 dr.soso.com CNAME .
 *.dr.soso.com CNAME .
 toolbar.soso.com CNAME .
@@ -62202,10 +62214,6 @@ tor2door-marketonion.com CNAME .
 *.tor2door-marketonion.com CNAME .
 torbit.com CNAME .
 *.torbit.com CNAME .
-rtb2-apac.torchad.com CNAME .
-*.rtb2-apac.torchad.com CNAME .
-static-rtb2.torchad.com CNAME .
-*.static-rtb2.torchad.com CNAME .
 torclomil.com CNAME .
 *.torclomil.com CNAME .
 torggissoft.com CNAME .
@@ -66172,6 +66180,8 @@ vodone.com CNAME .
 *.vodone.com CNAME .
 vogate.com CNAME .
 *.vogate.com CNAME .
+c.vogue.com CNAME .
+*.c.vogue.com CNAME .
 sstats.vogue.com CNAME .
 *.sstats.vogue.com CNAME .
 vogulprecast.com CNAME .
@@ -71118,6 +71128,8 @@ autodiscover.de CNAME .
 *.autodiscover.de CNAME .
 data-d2a8aec266.autohaus.de CNAME .
 *.data-d2a8aec266.autohaus.de CNAME .
+analytics.autohaus-schaeben.de CNAME .
+*.analytics.autohaus-schaeben.de CNAME .
 autohausgrund.de CNAME .
 *.autohausgrund.de CNAME .
 data-9c90373be1.automobil-produktion.de CNAME .
@@ -92372,8 +92384,6 @@ metric.stoneboardwear.net CNAME .
 *.metric.stoneboardwear.net CNAME .
 stootsou.net CNAME .
 *.stootsou.net CNAME .
-storageplay.net CNAME .
-*.storageplay.net CNAME .
 storygize.net CNAME .
 *.storygize.net CNAME .
 analytics.streamone.net CNAME .
@@ -98066,6 +98076,8 @@ smetrics.skandia.se CNAME .
 *.smetrics.skandia.se CNAME .
 analytics.smhi.se CNAME .
 *.analytics.smhi.se CNAME .
+gtm.stampenmedia.se CNAME .
+*.gtm.stampenmedia.se CNAME .
 suntcontent.se CNAME .
 *.suntcontent.se CNAME .
 smetrics.spela.svenskaspel.se CNAME .
