@@ -57,6 +57,7 @@ https://phishing.army/download/phishing_army_blocklist.txt
 https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt
 https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
 https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
+https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
 https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads_justdomains.txt
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_microsites_justdomains.txt
@@ -87,6 +88,7 @@ https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_n
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-10-07_donot/domains.txt
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-12-16_cytrox/domains.txt
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2023-03-29_android_campaign/domains.txt
+https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/quad9_blocklist.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
@@ -120,6 +122,7 @@ https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt
 https://raw.githubusercontent.com/craiu/iocs/main/log4shell/log4j_blocklist.txt
 https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt
 https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdGuard%20Home%20Compilation%20List/AdGuardHomeCompilationList-Notifications.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersABP-Inclusion.txt
