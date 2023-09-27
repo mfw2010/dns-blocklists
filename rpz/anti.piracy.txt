@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1695811980 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1695853920 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 27 Sep 2023 10:53 UTC
-; Version: 2023.0927.1053.23
+; Last modified: 27 Sep 2023 22:32 UTC
+; Version: 2023.0927.2232.13
 ; Syntax: RPZ
-; Number of entries: 21158
+; Number of entries: 21170
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -3864,6 +3864,8 @@ djleak.com CNAME .
 *.djleak.com CNAME .
 dl-land.com CNAME .
 *.dl-land.com CNAME .
+bt.dl1234.com CNAME .
+*.bt.dl1234.com CNAME .
 dl4free.com CNAME .
 *.dl4free.com CNAME .
 dl4v.com CNAME .
@@ -10074,6 +10076,8 @@ movieee.my.id CNAME .
 *.movieee.my.id CNAME .
 pirateproxy.id CNAME .
 *.pirateproxy.id CNAME .
+soap2day.id CNAME .
+*.soap2day.id CNAME .
 unblocked.id CNAME .
 *.unblocked.id CNAME .
 unblockit.id CNAME .
@@ -11124,6 +11128,8 @@ calcio.la CNAME .
 *.calcio.la CNAME .
 divxtotal.la CNAME .
 *.divxtotal.la CNAME .
+dood.la CNAME .
+*.dood.la CNAME .
 filmstreaming.la CNAME .
 *.filmstreaming.la CNAME .
 guardaserie.la CNAME .
@@ -14310,6 +14316,8 @@ vkstreaming.net CNAME .
 *.vkstreaming.net CNAME .
 vleech.net CNAME .
 *.vleech.net CNAME .
+voe-network.net CNAME .
+*.voe-network.net CNAME .
 vtoxicity.net CNAME .
 *.vtoxicity.net CNAME .
 wannabefansubs.net CNAME .
@@ -18598,6 +18606,8 @@ sumotorrent.sx CNAME .
 *.sumotorrent.sx CNAME .
 torrentbox.sx CNAME .
 *.torrentbox.sx CNAME .
+voe.sx CNAME .
+*.voe.sx CNAME .
 webflake.sx CNAME .
 *.webflake.sx CNAME .
 guardaserie.sydney CNAME .
@@ -19134,6 +19144,8 @@ soap2day.to CNAME .
 *.soap2day.to CNAME .
 soap2day-to.to CNAME .
 *.soap2day-to.to CNAME .
+soap2dayx.to CNAME .
+*.soap2dayx.to CNAME .
 solarmovie.to CNAME .
 *.solarmovie.to CNAME .
 solarmoviez.to CNAME .
