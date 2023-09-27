@@ -1,23 +1,23 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/hagezi/dns-blocklists)![GitHub issues](https://img.shields.io/github/issues/hagezi/dns-blocklists)![GitHub closed issues](https://img.shields.io/github/issues-closed/hagezi/dns-blocklists)![GitHub repo size](https://img.shields.io/github/repo-size/hagezi/dns-blocklists)[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhagezi%2Fdns-blocklists&count_bg=%23754400&title_bg=%235F5F5F&icon=awesomelists.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/hagezi/dns-blocklists)[![shields.io Stars](https://img.shields.io/github/stars/hagezi/dns-blocklists)](https://github.com/hagezi/dns-blocklists/stargazers)
-## DNS Blocklists - *For a better internet!*
+## :zap: DNS Blocklists - *For a better internet!*
 
 ### *Made with :heartbeat: for a safer and cleaner internet! It always seems impossible until it’s done.*
 *If you like the project and you can benefit from it, leave a :star: (top right) and become a [stargazer](https://github.com/hagezi/dns-blocklists/stargazers)! Thanks for your support!* 
 
 ---
 
-**Google** *FILTERS YOUR THOUGHTS*         
-**Apple** *KNOWS WHERE YOUR MOM IS*         
-**Facebook** *CHOOSES WHAT YOU READ*        
-**Amazon** *KNOWS WHAT PRESENTS ARE YOU GETTING*      
-**Microsoft** *FORMATS YOUR KIDS*      
-**Others** *CREATES EXTENSIVE PROFILES AND SELLS YOUR DATA*         
+:thought_balloon: **Google** *FILTERS YOUR THOUGHTS*         
+:woman: **Apple** *KNOWS WHERE YOUR MOM IS*         
+:book: **Facebook** *CHOOSES WHAT YOU READ*        
+:gift: **Amazon** *KNOWS WHAT PRESENTS ARE YOU GETTING*      
+:children_crossing: **Microsoft** *FORMATS YOUR KIDS*      
+:moneybag: **Others** *CREATES EXTENSIVE PROFILES AND SELLS YOUR DATA*         
 
-*Privacy is not a crime, protect yourself!*
+:bangbang: *Privacy is not a crime, protect yourself!* :bangbang:
 
 ---	 
 
-### Table of Contents
+### :bookmark_tabs: Table of Contents
 1. [Overview](#overview)
 2. [Multi light](#light) - *Hand brush: Light protection*
 3. [Multi normal](#normal) - *Broom: All-round protection*
@@ -43,30 +43,30 @@
 23. [Statistics](statistics.md) - [Sources](sources.md) 
 24. [Mirror](https://gitlab.com/hagezi/mirror/-/tree/main/dns-blocklists) - *Mirrored files of the block lists on GitLab*
 
-### ***Multi - Cleans the Internet and protects your privacy!*** <a name="overview"></a>
+### :books: ***Multi - Cleans the Internet and protects your privacy!*** <a name="overview"></a>
 *An all in one DNS blocklist in **various versions (light, normal, pro, pro++ and ultimate)**. It can be used as a stand alone blocklist. For every region. Blocks ads, affiliate, tracking, metrics, telemetry, fake, phishing, malware, scam, coins and other "crap". Based on [various blocklists](sources.md). No, they are not just block lists cobbled together from different sources. They have been optimized and extended to efficiently "clean the Internet" in all areas.*
 
 #### ***Multi blocklist version and size overview:***
-| Version | Domains<br>Compressed | Pro++ | Pro | Normal | Light | [Fake](#fake) | [TIF](#tif) | [Personal](#personal) | [Native](#native) |
-|:--------|---:|:------:|:-----:|:----:|:----:|:---:|:------:|:----------:|:----------:|
-| [Light](#light)             | 182134<br>67539     |  |   |   |  | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
-| [Normal](#normal)       | 711053<br>178463     |  |   |  | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
-| [Pro](#pro)              | 959938<br>269199         |  |  | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
-| [Pro++](#proplus)    | 1187364<br>336626 |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :green_circle: | :yellow_square: |
-| [Ultimate](#ultimate)    | 1476039<br>426492 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: |
+| Version | Domains<br>Compressed | Pro++ | Pro | Nor<br>mal | Light | [Fake](#fake) | [TIF](#tif) | [Pers<br>onal](#personal) | [Native](#native) | [PopUp<br>Ads](#popupads) |
+|:--------|---:|:------:|:-----:|:----:|:----:|:---:|:------:|:----------:|:----------:|:----:|
+| :green_book:[Light](#light)             | 182094<br>67503     |  |   |   |  | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: | |
+| :blue_book:[Normal](#normal)       | 711053<br>178463     |  |   |  | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: | :yellow_square: |
+| :ledger:[Pro](#pro)              | 959938<br>269199         |  |  | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: | :green_circle: |
+| :orange_book:[Pro++](#proplus)    | 1187364<br>336626 |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :green_circle: | :yellow_square: | :green_circle: |
+| :closed_book:[Ultimate](#ultimate)    | 1476039<br>426492 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: |
            
 :green_circle: contains the list named in the column caption       
 :yellow_square: partially contains the list named in the column caption       
     
-#### ***For a recommendation, see:*** *[Which version of the lists should I use?](#whatshouldiuse)*
+### :bulb: ***For a recommendation, see:*** *[Which version of the lists should I use?](#whatshouldiuse)*
 
 ---
          
-### ***Multi LIGHT*** - **Basic protection** <a name="light"></a>
+### :green_book: ***Multi LIGHT*** - **Basic protection** <a name="light"></a>
       
 *Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.*
           
-**Entries:** *182134 domains/hosts - 67539 compressed domains*                    
+**Entries:** *182094 domains/hosts - 67503 compressed domains*                    
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -80,7 +80,7 @@
 | RPZ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/light.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/light.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 | PAC | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/pac/light.pac)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/pac/light.pac) | Proxy Auto Configuration |
 
-### ***Multi NORMAL*** - **All-round protection** <a name="normal"></a>
+### :blue_book: ***Multi NORMAL*** - **All-round protection** <a name="normal"></a>
       
 *Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
@@ -97,7 +97,7 @@
 | Wildcard<br>Domains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/multi-onlydomains.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/multi-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/multi.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/multi.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
-### ***Multi PRO*** - **Extended protection (Recommended)** <a name="pro"></a>
+### :ledger: ***Multi PRO*** - **Extended protection (Recommended)** <a name="pro"></a>
       
 *Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
@@ -114,7 +114,7 @@
 | Wildcard<br>Domains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro-onlydomains.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/pro-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/pro.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/pro.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
-### ***Multi PRO++*** - **Maximum protection** <a name="proplus"></a>
+### :orange_book: ***Multi PRO++*** - **Maximum protection** <a name="proplus"></a>
 
 *Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
@@ -133,7 +133,7 @@
 | Wildcard<br>Domains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.plus-onlydomains.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/pro.plus-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/pro.plus.txt)<br>[Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/pro.plus.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
                   
-### ***Multi ULTIMATE*** - **Aggressive protection** <a name="ultimate"></a>
+### :closed_book: ***Multi ULTIMATE*** - **Aggressive protection** <a name="ultimate"></a>
 
 *Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking (+Referral), Metrics, Telemetry, Phishing, Malware, Scam, Free Hoster, Fake, Coins and other "Crap".*
          
@@ -158,7 +158,7 @@
 
 ---
 
-### ***Fake - Protects against internet scams, traps & fakes!*** <a name="fake"></a>
+### :trollface: ***Fake - Protects against internet scams, traps & fakes!*** <a name="fake"></a>
 *An blocklist for blocking fake stores, -news, -science, -streaming, rip-offs, cost traps and co.*         
         
 |             | Light          | Normal         | Pro            | Pro++          | Ultimate       |
@@ -182,16 +182,16 @@
 
 ---
 
-### ***Pop-Up Ads - Protects against annoying pop-up ads!*** <a name="popupads"></a>
+### :tada: ***Pop-Up Ads - Protects against annoying pop-up ads!*** <a name="popupads"></a>
 *An blocklist for blocking pop-up ads.*         
         
 |             | Light          | Normal         | Pro            | Pro++          | Ultimate       |
 |:-----------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
-| Included in | :x: | :x: | :green_circle: | :green_circle: | :green_circle: |
+| Included in | :x: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: |
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *72732 compressed domains*           
+**Entries:** *72867 compressed domains*           
        
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -206,7 +206,7 @@
 
 ---
 
-### ***Threat Intelligence Feeds - Increases security significantly! (Recommended)*** <a name="tif"></a>
+### :closed_lock_with_key: ***Threat Intelligence Feeds - Increases security significantly! (Recommended)*** <a name="tif"></a>
 *An blocklist for blocking malware, cryptojacking, scam, spam and phishing. Blocks domains known to spread malware, launch phishing attacks and host command-and-control servers.*         
         
 |             | Light           | Normal          | Pro             | Pro++           | Ultimate        |
@@ -215,7 +215,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
               		
-**Entries:** *1534013 domains/hosts - 883001 compressed domains*           
+**Entries:** *1541538 domains/hosts - 886724 compressed domains*           
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -232,7 +232,7 @@
       
 ---
 
-### ***DoH/VPN/TOR/Proxy Bypass - Prevent methods to bypass your DNS!*** <a name="bypass"></a>
+### :outbox_tray: ***DoH/VPN/TOR/Proxy Bypass - Prevent methods to bypass your DNS!*** <a name="bypass"></a>
 
 *Prevent method to bypass your DNS. To ensure the bootstrap is your DNS server you must redirect or block standard DNS outbound (TCP/UDP 53) and block all DNS over TLS (TCP 853) outbound.*
           
@@ -284,7 +284,7 @@
 
 ---
 
-### ***Safesearch not supported - Prevent the use of search engines that do not support safesearch!*** <a name="safesearch"></a>
+### :mag: ***Safesearch not supported - Prevent the use of search engines that do not support safesearch!*** <a name="safesearch"></a>
 *An blocklist for blocking search engines that do not support safesearch.*         
         
 |             | Light | Normal | Pro | Pro++ | Ultimate |
@@ -308,7 +308,7 @@
 
 ---
 
-### ***Dynamic DNS blocking - Protects against the malicious use of dynamic DNS services!*** <a name="dyndns"></a>
+### :lock_with_ink_pen: ***Dynamic DNS blocking - Protects against the malicious use of dynamic DNS services!*** <a name="dyndns"></a>
 *An blocklist for blocking dynamic DNS services to protect against malicious use in phishing campaigns and others.*         
         
 |             | Light | Normal | Pro | Pro++ | Ultimate |
@@ -332,7 +332,7 @@
 
 ---
 
-### ***Badware Hoster blocking - Protects against the malicious use of free host services!*** <a name="hoster"></a>
+### :computer: ***Badware Hoster blocking - Protects against the malicious use of free host services!*** <a name="hoster"></a>
 *An blocklist for blocking known free hosters that also host badware via user content to prevent the use of these hosters for malicious purposes.*         
                       
 |             | Light | Normal | Pro | Pro++ | Ultimate |
@@ -356,7 +356,7 @@
 
 ---
 
-### ***Most Abused TLDs - Protects against known malicious Top Level Domains!*** <a name="tlds"></a>
+### :crystal_ball: ***Most Abused TLDs - Protects against known malicious Top Level Domains!*** <a name="tlds"></a>
 *An blocklist for blocking Top Most Abused Top Level Domains, merged from @Yokoffing, @DandelionSprout, @LennyFox and SpamHaus.*         
             
 |             | Light | Normal | Pro | Pro++ | Ultimate |
@@ -376,7 +376,7 @@
 
 ---
 
-### ***Anti Piracy - Protects against piracy!*** <a name="piracy"></a>
+### :skull: ***Anti Piracy - Protects against piracy!*** <a name="piracy"></a>
 *Blocks websites and services that are mainly used for illegal distribution of copyrighted content.*         
         
 |             | Light | Normal | Pro | Pro++ | Ultimate |
@@ -385,7 +385,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *10560 compressed domains*                     
+**Entries:** *10579 compressed domains*                     
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -400,7 +400,7 @@
 
 ---
 
-### ***Gambling - Protects against gambling content!*** <a name="gambling"></a>
+### :slot_machine: ***Gambling - Protects against gambling content!*** <a name="gambling"></a>
 *Blocks gambling content.*         
         
 |             | Light | Normal | Pro | Pro++ | Ultimate |
@@ -409,7 +409,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *169418 compressed domains*                     
+**Entries:** *169421 compressed domains*                     
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -424,7 +424,7 @@
 
 ---
 
-### ***Personal - My manually maintained denylist*** <a name="personal"></a>
+### :shipit: ***Personal - My manually maintained denylist*** <a name="personal"></a>
 *My personal blocklist, an extension for known blocklists. Blocks ads, trackers, native device trackers, badware and more. Not intended to be used as a standalone blocklist, it serves as a addition for other blocklists!*         
         
 |             | Light | Normal | Pro | Pro++ | Ultimate |
@@ -433,7 +433,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *53253 compressed domains*                    
+**Entries:** *53393 compressed domains*                    
        
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -449,7 +449,7 @@
 
 ---
 
-### ***Native Tracker - Broadband tracker of devices, services and operating systems*** <a name="native"></a>
+### :calling: ***Native Tracker - Broadband tracker of devices, services and operating systems*** <a name="native"></a>
 *Blocks native broadband tracker from devices, services and operating systems that track your activity.*         
                          
 |             | Light | Normal | Pro | Pro++ | Ultimate |
@@ -472,7 +472,7 @@
 
 ---
 
-### ***Recommendation*** <a name="recommendation"></a>
+### :bulb: ***Recommendation*** <a name="recommendation"></a>
 
 *As a network-wide DNS blocker, I recommend using [Adguard Home](https://adguard.com), [PiHole](https://pi-hole.net/), [TechnitiumDNS](https://technitium.com/dns/), [Blocky](https://github.com/0xERR0R/blocky) (advanced users), [adblock-lean](https://github.com/lynxthecat/adblock-lean) (OpenWrt) or [eBlocker](https://eblocker.org/).*
             
@@ -482,34 +482,36 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 *Check out yokoffing's [Recommended Filters for uBlock Origin](https://github.com/yokoffing/filterlists) for content blocker filter lists.*
 *For a browser recommendation see also yokoffing's [I need a browser with ad blocking. Which one should I choose?](https://github.com/yokoffing/NextDNS-Config#i-need-a-browser-with-ad-blocking-which-one-should-i-choose)*
 
-#### Which version of the lists should I use? <a name="whatshouldiuse"></a>
+#### :information_desk_person: Which version of the lists should I use? <a name="whatshouldiuse"></a>
 
 - *Use [Light](#light) if you have to pay attention to the size of the list, because the AdBlocker does not support large lists.*
 - *Use [Normal](#normal) if there is no admin nearby who can unblock something from time to time. E.g. for grandma and grandpa or the whole home or family network.*
 - *Use [Pro](#pro) if an admin is available who could unblock something if necessary. My personal recommendation for almost problem-free adblocking.*
 - *Use [Pro++](#proplus) if you are an experienced user, know what you are doing and privacy is important to you. This is an aggressive list and you may need to unblock things more often.*
 - *Use [Ultimate](#ultimate) if Pro++ is not enough for you.*
-- *Use [Ultimate](#ultimate) with [1Hosts Pro](https://github.com/badmojr/1Hosts#1hosts-pro) if Ultimate alone is not enough. You will have to unblock more things yourself.*
-- *Is [Ultimate](#ultimate) + [1Hosts Pro](https://github.com/badmojr/1Hosts#1hosts-pro) not enough for you? Then combine Ultimate with [1Hosts Xtra](https://github.com/badmojr/1Hosts#1hosts-xtra). But you should schedule enough time for unblocking.*
-         
-*Another recommendation is to combine the lists with the [Threat Intelligence Feeds](#tif) list if possible.*
+- *Use [Ultimate](#ultimate) with [1Hosts Pro*](https://github.com/badmojr/1Hosts#1hosts-pro) if Ultimate alone is not enough. You will have to unblock a lot yourself.*
+- *Is [Ultimate](#ultimate) + [1Hosts Pro*](https://github.com/badmojr/1Hosts#1hosts-pro) still not enough for you? You are crazy, well then combine Ultimate with [1Hosts Xtra*](https://github.com/badmojr/1Hosts#1hosts-xtra). But you should schedule enough time for unblocking, or better hire a full-time admin.*
+
+\* *NOTE: The [1Hosts](https://github.com/badmojr/1Hosts) lists are currently only maintained irregularly, see also: [Competing Demands Causing Maintenance Slowdown](https://github.com/badmojr/1Hosts/issues/1307)*
+
+*Another recommendation is to combine the main lists with the [Threat Intelligence Feeds](#tif) list if possible.*
 
 ***Further additional options to the main lists depending on the use case are:***
       
 - ***Security:*** *In addition to the [Threat Intelligence Feeds](#tif) list, use the [Dynamic DNS](#dyndns), [Badware Hoster](#hoster) and [Most Abused TLDs](#tlds) list to further protect yourself from malicious things.*
-- ***Protection of children:*** *Use the [Gambling](#gambling), [Anti Piracy](#piracy), [Safesearch](#safesearch), [DoH/VPN/TOR/Proxy Bypass](#bypass) and [oisd NSFW](https://oisd.nl/setup) lists in addition to block gambling, piracy, no safesearch engine, porn, shock and adult sites.*
+- ***Protection of children:*** *Use the [Gambling](#gambling), [Anti Piracy](#piracy), [Safesearch](#safesearch), [DoH/VPN/TOR/Proxy Bypass](#bypass) and [oisd NSFW](https://oisd.nl/setup) lists in addition to block gambling, piracy, no safesearch engines, DNS bypassing, porn, shock and adult sites.*
 
 ---
 
-### ***Online DNS Services*** <a name="dnsservices"></a>        
+### :department_store: ***Online DNS Services*** <a name="dnsservices"></a>        
 
 *If you don't run your own DNS server on your home network or if you are looking for additional protection for your mobile devices when they are not connected to the home network, then I recommend one of the following DNS services:*
 
-### ***AdGuardDNS - limited free/paid*** <a name="adguarddns"></a>        
+### :round_pushpin: ***AdGuardDNS - limited free/paid*** <a name="adguarddns"></a>        
           
 *In [AdGuardDNS](https://adguard-dns.io) you can use my Multi Normal, TIF, Gambling and Anti Piracy list.*          
 
-### ***ControlD - free/paid*** <a name="controld"></a>
+### :round_pushpin: ***ControlD - free/paid*** <a name="controld"></a>
 
 *In [ControlD](https://controld.com/free-dns) you can use [my blocklists](https://docs.controld.com/docs/free-dns):*
 
@@ -520,13 +522,13 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 | Pro Plus | `https://freedns.controld.com/x-hagezi-proplus` | `x-hagezi-proplus.freedns.controld.com` |
 | Ultimate | `https://freedns.controld.com/x-hagezi-ultimate` | `x-hagezi-ultimate.freedns.controld.com` |
 
-### ***NextDNS - limited free/paid*** <a name="nextdns"></a>        
+### :round_pushpin: ***NextDNS - limited free/paid*** <a name="nextdns"></a>        
 
 *In [NextDNS](https://nextdns.io/?from=jvpyfdfc) you can use my Light, Normal, Pro, Pro++ and Ultimate list.*
                
 *Check out Yokoffing [NextDNS Config Guide](https://github.com/yokoffing/NextDNS-Config) and Techlore Video [The ULTIMATE Guide to Mastering NextDNS!](https://youtu.be/WUG57ynLb8I) for recommended [NextDNS](https://nextdns.io/?from=jvpyfdfc) configuration settings.*
 
-### ***RethinkDNS - free*** <a name="rethinkdns"></a>
+### :round_pushpin: ***RethinkDNS - free*** <a name="rethinkdns"></a>
 
 *In [RethinkDNS](https://rethinkdns.com) you can use my Light, Normal, Pro, Pro++, Ultimate and TIF list.*
 
@@ -538,7 +540,7 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 | Pro plus + TIF | `https://sky.rethinkdns.com/1:AAoACAgA` | `1-aafaacaiaa.max.rethinkdns.com` | [Visit](https://sky.rethinkdns.com/1:AAoACAgA) and click on the red apple |
 | Ultimate + TIF | `https://sky.rethinkdns.com/1:gAgACABA` | `1-qaeaacaaia.max.rethinkdns.com` | [Visit](https://sky.rethinkdns.com/1:gAgACABA) and click on the red apple |
             
-### ***DNSwarden - free*** <a name="dnswarden"></a>
+### :round_pushpin: ***DNSwarden - free*** <a name="dnswarden"></a>
 
 *In [DNSwarden](https://dnswarden.com/customfilter.html) you can use my Light, Normal, Pro, Pro++, Ultimate and TIF list.*
 
@@ -550,17 +552,17 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 | Pro plus + TIF | `https://dns.dnswarden.com/0000000000000000000000o` | `0000000000000000000000o.dns.dnswarden.com` |
 | Ultimate + TIF | `https://dns.dnswarden.com/0000000000000000000000804` | `0000000000000000000000804.dns.dnswarden.com` |
 
-### ***DNSforge (Germany) - free*** <a name="dnsforge"></a>
+### :round_pushpin: ***DNSforge (Germany) - free*** <a name="dnsforge"></a>
 
 *[DNSforge](https://dnsforge.de/) use my Multi Light blocklist in addition to other blocklists.*
           
-### ***OpenBLD.net - free*** <a name="openbld"></a>
+### :round_pushpin: ***OpenBLD.net - free*** <a name="openbld"></a>
 
 *[OpenBLD.net](https://lab.sys-adm.in/) use my Multi Pro blocklist in addition to other blocklists.*
 
 ---
 
-### ***About*** <a name="about"></a>
+### :loudspeaker: ***About*** <a name="about"></a>
 
 <p align="center"><a href="https://github.com/hagezi/dns-blocklists/graphs/contributors"><img src="https://contrib.rocks/image?repo=hagezi/dns-blocklists" /></a></p>
 <p align="center"><i><b>"If the plan doesn‘t work, change the plan but never the goal."<br>There's no place like 127.0.0.1!</b></i></p>
@@ -584,23 +586,23 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
                  
 *Test them, give [feedback](https://github.com/hagezi/dns-blocklists/discussions) and [report false positive](https://github.com/hagezi/dns-blocklists/issues) domains.*
 
-#### Contact <a name="contact"></a>
+#### :email: Contact <a name="contact"></a>
 
 | Telegram | Discord | Reddit | NextDNS | Mail |
 |:---------:|:--------:|:------:|:-------:|:-----:|
 | [@hagezi](https://t.me/hagezi) | hagezi | [u/hagezi](https://www.reddit.com/user/hagezi) | [@hagezi](https://help.nextdns.io/profile/x2hylgc) | hagezi@protonmail.com |
 
-#### Groups <a name="groups"></a>
+#### :family: Groups <a name="groups"></a>
 
 | Telegram | Discord |
 |:---------:|:-----:|
 [Link](https://t.me/hagezi_g) | [CipherOps' Pi-hole & AdGuard Home](https://discord.gg/jg9CKkhC7M) |
 
-#### Repository <a name="repository"></a>
+#### :octocat: Repository <a name="repository"></a>
 
 *The repository is occasionally compressed (reinitialised) to reduce the overall size. Among other things, this invalidates forks and cleans up the commit history.*
 
-#### Referral Domains <a name="referral"></a>
+#### :cyclone: Referral Domains <a name="referral"></a>
 
 *Affiliate and tracking links (referral domains) that appear frequently on offer web pages, in emails or in search results are allowed in my lists. These are mostly called only after manual clicking on a link and are not used to display advertising.
 If these are blocked, the first hit links from search results, for example, no longer work.* 
@@ -609,7 +611,7 @@ If these are blocked, the first hit links from search results, for example, no l
          
 *Allowing referral domains in my lists is equivalent to the [NextDNS](https://nextdns.io/?from=jvpyfdfc) feature "Privacy > Allow Affiliate & Tracking Links".*
           
-#### Support Me <a name="support"></a>
+#### :dizzy: Support Me <a name="support"></a>
                                   
 *If you like the project and you can benefit from it, leave a :star: (top right) and become a [stargazer](https://github.com/hagezi/dns-blocklists/stargazers)!* 
                                 
@@ -620,11 +622,11 @@ If these are blocked, the first hit links from search results, for example, no l
 
 ---
 
-#### Sponsors <a name="sponsors"></a>
+#### :crown: Sponsors <a name="sponsors"></a>
 
 ***[DerMAp](https://github.com/DerMAp), [xRuffKez](https://github.com/xRuffKez)***
 
-#### Stargazers <a name="stargazers"></a>
+#### :stars: Stargazers <a name="stargazers"></a>
 
 [![Stargazers repo roster for @hagezi/dns-blocklists](https://reporoster.com/stars/dark/hagezi/dns-blocklists)](https://github.com/hagezi/dns-blocklists/stargazers)
            
