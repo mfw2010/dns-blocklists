@@ -2996,12 +2996,11 @@
 @@|*pitaya*.byteoversea.com^
 @@|*pitaya*.snssdk.com^
 @@|*pitaya*.tiktok*.com^
-@@|mon*-*.tiktok*.com^
-! mon*-checkout*.tiktok*.com
-! mon*-normal*.tiktok*.com
-! mon*-platform*.tiktok*.com
-! mon*-tmp*.tiktok*.com
-! mon*-i*.tiktok*.com
+! mon*-*.tiktok*.com
+@@|mon*-checkout*.tiktok*.com^
+@@|mon*-normal*.tiktok*.com^
+@@|mon*-platform*.tiktok*.com^
+@@|mon*-tmp*.tiktok*.com^
 @@|*mssdk*.byteoversea.com^
 @@|*mssdk*.snssdk.com^
 @@|*mssdk*.tiktok*.com^
@@ -5309,4 +5308,10 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/1633
 @@|tracking.postnord.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1634
+@@|consent.unilad.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1635
+@@|m.icares.app^
 
