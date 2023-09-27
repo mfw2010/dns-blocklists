@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1695734640 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1695776400 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Personal DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 Sep 2023 13:24 UTC
-; Version: 2023.0926.1324.58
+; Last modified: 27 Sep 2023 01:00 UTC
+; Version: 2023.0927.0100.59
 ; Syntax: RPZ
-; Number of entries: 106500
+; Number of entries: 106508
 ;
 marketing.globalpointofcare.abbott CNAME .
 *.marketing.globalpointofcare.abbott CNAME .
@@ -6292,6 +6292,8 @@ saa.247sports.com CNAME .
 *.24counter.com CNAME .
 24fea9d560.com CNAME .
 *.24fea9d560.com CNAME .
+24getcash.com CNAME .
+*.24getcash.com CNAME .
 smetrics.24hourfitness.com CNAME .
 *.smetrics.24hourfitness.com CNAME .
 analytics.24hreviews.com CNAME .
@@ -25150,6 +25152,8 @@ easkedasensibl.com CNAME .
 *.easkedasensibl.com CNAME .
 secure.east2pony.com CNAME .
 *.secure.east2pony.com CNAME .
+easter-analytics.com CNAME .
+*.easter-analytics.com CNAME .
 easterstrengthenbranches.com CNAME .
 *.easterstrengthenbranches.com CNAME .
 eastfeukufunde.com CNAME .
@@ -31006,8 +31010,6 @@ gold2762.com CNAME .
 *.gold2762.com CNAME .
 gold365news.com CNAME .
 *.gold365news.com CNAME .
-goldbach.com CNAME .
-*.goldbach.com CNAME .
 analytics.goldbelly.com CNAME .
 *.analytics.goldbelly.com CNAME .
 golden-gateway.com CNAME .
@@ -39424,6 +39426,8 @@ linkshighway.com CNAME .
 *.linkshighway.com CNAME .
 linksmart.com CNAME .
 *.linksmart.com CNAME .
+linksprf.com CNAME .
+*.linksprf.com CNAME .
 linkstorms.com CNAME .
 *.linkstorms.com CNAME .
 ad.linksynergy.com CNAME .
@@ -58132,6 +58136,8 @@ spaciousnavigablehenceforward.com CNAME .
 *.spaciousnavigablehenceforward.com CNAME .
 spadelack.com CNAME .
 *.spadelack.com CNAME .
+spadsync.com CNAME .
+*.spadsync.com CNAME .
 spaghettiraisinalter.com CNAME .
 *.spaghettiraisinalter.com CNAME .
 spamanalyst.com CNAME .
@@ -65272,8 +65278,6 @@ valack.com CNAME .
 *.valack.com CNAME .
 news.valawyersweekly.com CNAME .
 *.news.valawyersweekly.com CNAME .
-valeronevijao.com CNAME .
-*.valeronevijao.com CNAME .
 valeuceplangka.com CNAME .
 *.valeuceplangka.com CNAME .
 valiantsubquery.com CNAME .
@@ -99260,6 +99264,8 @@ kolobusbeseam.space CNAME .
 *.kolobusbeseam.space CNAME .
 latonaheyday.space CNAME .
 *.latonaheyday.space CNAME .
+ledor2.space CNAME .
+*.ledor2.space CNAME .
 licereason.space CNAME .
 *.licereason.space CNAME .
 lobipedholw.space CNAME .
@@ -99384,6 +99390,8 @@ vidsbig.space CNAME .
 *.vidsbig.space CNAME .
 vidsbranch.space CNAME .
 *.vidsbranch.space CNAME .
+vidschannel.space CNAME .
+*.vidschannel.space CNAME .
 washincozing.space CNAME .
 *.washincozing.space CNAME .
 watchnewpics.space CNAME .
