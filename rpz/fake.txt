@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1696070700 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1696113540 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 30 Sep 2023 10:45 UTC
-; Version: 2023.0930.1045.30
+; Last modified: 30 Sep 2023 22:39 UTC
+; Version: 2023.0930.2239.35
 ; Syntax: RPZ
-; Number of entries: 20518
+; Number of entries: 20516
 ;
 bitcoin360.ai CNAME .
 *.bitcoin360.ai CNAME .
@@ -20482,8 +20482,6 @@ watersportshotsale.website CNAME .
 *.watersportshotsale.website CNAME .
 difcinvestment.world CNAME .
 *.difcinvestment.world CNAME .
-fintegral.world CNAME .
-*.fintegral.world CNAME .
 thermomix.world CNAME .
 *.thermomix.world CNAME .
 allcart.xyz CNAME .
