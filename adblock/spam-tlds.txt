@@ -7,8 +7,8 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 27 Sep 2023 19:11 UTC
-! Version: 2023.0927.1911.49
+! Last modified: 30 Sep 2023 09:13 UTC
+! Version: 2023.0930.0913.52
 ! Syntax: AdGuard
 !
 ||agency^$denyallow=battlefield.agency|baam.agency|robotzebra.agency|uphotel.agency|ws.agency
@@ -59,6 +59,7 @@
 ||*.sbs^
 ||*.skin^
 ||space^$denyallow=searx.space|ippen.space
+||*.support^
 ||surf^$denyallow=bloom.surf|fedi.surf|glowing.surf|kayaking.surf|nic.surf|quran.surf|s-wings.surf|surfstation.surf
 ||tk^$denyallow=adistance.tk|bloatcat.tk|bonzibuddy.tk|bryla.tk|bstweaker.tk|budterence.tk|c-r-t.tk|c0d3c.tk|censurion.tk|china996.tk|cuso.tk|devhonk.tk|dlyang.tk|google.tk|goshujin.tk|gotofap.tk|graph.tk|grazziecorp.tk|handicapped.tk|heggadrone.tk|helene.tk|kabi.tk|lameni.tk|leroymcqy.tk|loveisgrief.tk|msqtdn.tk|pube.tk|rainer-zufall.tk|sironi.tk|takiverse.tk|tokelau-info.tk|webdev189.tk|xn--qubec-csa.tk|zete.tk
 ||*.tokyo^
