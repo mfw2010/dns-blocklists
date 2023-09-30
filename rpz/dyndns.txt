@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1695421920 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1696069560 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -7,13 +7,15 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 22 Sep 2023 22:32 UTC
-; Version: 2023.0922.2232.28
+; Last modified: 30 Sep 2023 10:26 UTC
+; Version: 2023.0930.1026.39
 ; Syntax: RPZ
-; Number of entries: 3034
+; Number of entries: 3042
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
+play.ai CNAME .
+*.play.ai CNAME .
 progr.am CNAME .
 *.progr.am CNAME .
 ze.am CNAME .
@@ -186,6 +188,8 @@ ddnss.ch CNAME .
 *.ddnss.ch CNAME .
 demoteam.ch CNAME .
 *.demoteam.ch CNAME .
+dnsking.ch CNAME .
+*.dnsking.ch CNAME .
 dyn.ch CNAME .
 *.dyn.ch CNAME .
 gotdns.ch CNAME .
@@ -1964,6 +1968,8 @@ as19557.net CNAME .
 *.as19557.net CNAME .
 as29997.net CNAME .
 *.as29997.net CNAME .
+ascension-newage.net CNAME .
+*.ascension-newage.net CNAME .
 at-band-camp.net CNAME .
 *.at-band-camp.net CNAME .
 authorizeddns.net CNAME .
@@ -2220,6 +2226,8 @@ pfly.net CNAME .
 *.pfly.net CNAME .
 pgafan.net CNAME .
 *.pgafan.net CNAME .
+php-dev.net CNAME .
+*.php-dev.net CNAME .
 planetdns.net CNAME .
 *.planetdns.net CNAME .
 podzone.net CNAME .
