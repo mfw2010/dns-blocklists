@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1696156560 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1696200120 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 01 Oct 2023 10:36 UTC
-; Version: 2023.1001.1036.04
+; Last modified: 01 Oct 2023 22:42 UTC
+; Version: 2023.1001.2242.37
 ; Syntax: RPZ
-; Number of entries: 5200
+; Number of entries: 5202
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -1049,6 +1049,8 @@ gizlibaglanti.com CNAME .
 *.gizlibaglanti.com CNAME .
 globalchatinc.com CNAME .
 *.globalchatinc.com CNAME .
+dns.glorydns.com CNAME .
+*.dns.glorydns.com CNAME .
 goldenfrog.com CNAME .
 *.goldenfrog.com CNAME .
 doh-primary-pool.goodbyegambling.com CNAME .
