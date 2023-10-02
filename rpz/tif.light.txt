@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1696201740 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1696246080 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Threat Intelligence Feeds DNS Blocklist - light version
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Oct 2023 23:09 UTC
-; Version: 2023.1001.2309.08
+; Last modified: 02 Oct 2023 11:28 UTC
+; Version: 2023.1002.1128.15
 ; Syntax: RPZ
-; Number of entries: 4754
+; Number of entries: 4752
 ;
 grandiose.academy CNAME .
 *.grandiose.academy CNAME .
@@ -4256,8 +4256,6 @@ uilscvnzdds.shop CNAME .
 *.uilscvnzdds.shop CNAME .
 wactus.shop CNAME .
 *.wactus.shop CNAME .
-adalatirin.site CNAME .
-*.adalatirin.site CNAME .
 canmaxiprog.site CNAME .
 *.canmaxiprog.site CNAME .
 capital-prg6.site CNAME .
