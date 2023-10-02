@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1696244580 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1696285920 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 02 Oct 2023 11:03 UTC
-; Version: 2023.1002.1103.46
+; Last modified: 02 Oct 2023 22:32 UTC
+; Version: 2023.1002.2232.43
 ; Syntax: RPZ
-; Number of entries: 21308
+; Number of entries: 21302
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -3822,6 +3822,8 @@ destroyallfilms.com CNAME .
 *.destroyallfilms.com CNAME .
 exodus.desync.com CNAME .
 *.exodus.desync.com CNAME .
+deutschekanale.com CNAME .
+*.deutschekanale.com CNAME .
 devilwolfs.com CNAME .
 *.devilwolfs.com CNAME .
 deviousdevils.com CNAME .
@@ -7440,8 +7442,6 @@ torrent-tracks.com CNAME .
 *.torrent-tracks.com CNAME .
 torrent411.com CNAME .
 *.torrent411.com CNAME .
-torrentarsivi.com CNAME .
-*.torrentarsivi.com CNAME .
 torrentazos.com CNAME .
 *.torrentazos.com CNAME .
 torrentbd.com CNAME .
@@ -8072,8 +8072,6 @@ warezcore.com CNAME .
 *.warezcore.com CNAME .
 warezfactor.com CNAME .
 *.warezfactor.com CNAME .
-warezfiles.com CNAME .
-*.warezfiles.com CNAME .
 warezfortune.com CNAME .
 *.warezfortune.com CNAME .
 warezforums.com CNAME .
@@ -12706,8 +12704,6 @@ apkgeek.net CNAME .
 *.apkgeek.net CNAME .
 apkgod.net CNAME .
 *.apkgod.net CNAME .
-apkocean.net CNAME .
-*.apkocean.net CNAME .
 applelinkbd.net CNAME .
 *.applelinkbd.net CNAME .
 arabp2p.net CNAME .
@@ -20436,8 +20432,6 @@ yifytorrent.vip CNAME .
 *.yifytorrent.vip CNAME .
 ymovies.vip CNAME .
 *.ymovies.vip CNAME .
-home.yxgz.vip CNAME .
-*.home.yxgz.vip CNAME .
 cb01.vision CNAME .
 *.cb01.vision CNAME .
 eurostreaming.vision CNAME .
