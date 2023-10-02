@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1696157700 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1696245540 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Oct 2023 10:55 UTC
-; Version: 2023.1001.1055.40
+; Last modified: 02 Oct 2023 11:19 UTC
+; Version: 2023.1002.1119.56
 ; Syntax: RPZ
-; Number of entries: 20698
+; Number of entries: 20694
 ;
 bitcoin360.ai CNAME .
 *.bitcoin360.ai CNAME .
@@ -50,8 +50,6 @@ achenseeinfo.at CNAME .
 *.achenseeinfo.at CNAME .
 acousticjam.at CNAME .
 *.acousticjam.at CNAME .
-addicted2.at CNAME .
-*.addicted2.at CNAME .
 adidasnmdschuhe.at CNAME .
 *.adidasnmdschuhe.at CNAME .
 adrianschwaiger.at CNAME .
@@ -1902,8 +1900,6 @@ accessoriestrade.com CNAME .
 *.accessoriestrade.com CNAME .
 accessory-series.com CNAME .
 *.accessory-series.com CNAME .
-ace-shopping-ltd.com CNAME .
-*.ace-shopping-ltd.com CNAME .
 acemoyusy.com CNAME .
 *.acemoyusy.com CNAME .
 achicwomen.com CNAME .
@@ -4396,6 +4392,8 @@ discountsrc.com CNAME .
 *.discountsrc.com CNAME .
 discrctoys.com CNAME .
 *.discrctoys.com CNAME .
+disdisbuy.com CNAME .
+*.disdisbuy.com CNAME .
 disneyatheart.com CNAME .
 *.disneyatheart.com CNAME .
 disneyrelate.com CNAME .
@@ -4968,6 +4966,8 @@ europaischeapotheke.com CNAME .
 *.europaischeapotheke.com CNAME .
 europamtb.com CNAME .
 *.europamtb.com CNAME .
+bmw.europe-moto.com CNAME .
+*.bmw.europe-moto.com CNAME .
 europeangeneric.com CNAME .
 *.europeangeneric.com CNAME .
 europequercybois.com CNAME .
@@ -6982,6 +6982,8 @@ juicydesigner.com CNAME .
 *.juicydesigner.com CNAME .
 jungle-shoes.com CNAME .
 *.jungle-shoes.com CNAME .
+de.justfashionnow.com CNAME .
+*.de.justfashionnow.com CNAME .
 justfisherman.com CNAME .
 *.justfisherman.com CNAME .
 justgreentool.com CNAME .
@@ -15526,6 +15528,8 @@ fastyslim.de CNAME .
 *.fastyslim.de CNAME .
 fauke.de CNAME .
 *.fauke.de CNAME .
+fcirlich.de CNAME .
+*.fcirlich.de CNAME .
 federnd-fit.de CNAME .
 *.federnd-fit.de CNAME .
 feher-buch.de CNAME .
@@ -15928,8 +15932,6 @@ hanno-film.de CNAME .
 *.hanno-film.de CNAME .
 hannover-mode.de CNAME .
 *.hannover-mode.de CNAME .
-hans-kray.de CNAME .
-*.hans-kray.de CNAME .
 hanse-bird.de CNAME .
 *.hanse-bird.de CNAME .
 hansert-solar.de CNAME .
@@ -16854,8 +16856,6 @@ monokompakt.de CNAME .
 *.monokompakt.de CNAME .
 montecjacke.de CNAME .
 *.montecjacke.de CNAME .
-moonplay.de CNAME .
-*.moonplay.de CNAME .
 morenius.de CNAME .
 *.morenius.de CNAME .
 mosano.de CNAME .
@@ -17478,12 +17478,8 @@ rhein-entree.de CNAME .
 *.rhein-entree.de CNAME .
 rhein-trends24.de CNAME .
 *.rhein-trends24.de CNAME .
-rheineule.de CNAME .
-*.rheineule.de CNAME .
 rheintulpen.de CNAME .
 *.rheintulpen.de CNAME .
-rheinwing.de CNAME .
-*.rheinwing.de CNAME .
 rheumatopia.de CNAME .
 *.rheumatopia.de CNAME .
 rhs-versand.de CNAME .
