@@ -245,6 +245,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-drwe
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-elastic.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-eset.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-fortinet.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-genians.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-hp.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-jpcert.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-kaspersky.txt
