@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 03 Oct 2023 22:38 UTC
-# Version: 2023.1003.2238.07
+# Last modified: 04 Oct 2023 10:29 UTC
+# Version: 2023.1004.1029.43
 # Syntax: DNSMasq
-# Number of entries: 802
+# Number of entries: 803
 #
 address=/ns.00dani.me/#
 address=/cdn.0ms.dev/#
@@ -37,6 +37,7 @@ address=/dns.aaflalo.me/#
 address=/dns-gcp.aaflalo.me/#
 address=/dns-nyc.aaflalo.me/#
 address=/doh.dns.apple.com.v.aaplimg.com/#
+address=/dns.aaytorr.com/#
 address=/res-acst1.absolight.net/#
 address=/res-acst2.absolight.net/#
 address=/res-acst3.absolight.net/#
