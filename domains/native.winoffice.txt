@@ -3,18 +3,23 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 22 Sep 2023 10:39 UTC
-# Version: 2023.0922.1039.28
+# Last modified: 05 Oct 2023 19:17 UTC
+# Version: 2023.1005.1917.38
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 122
+# Number of entries: 138
 #
 nexusrules.live.com
 cac-visio-telemetry.officeapps.live.com
+dec-visio-telemetry.officeapps.live.com
 euc-excel-telemetry.officeapps.live.com
 euc-powerpoint-telemetry.officeapps.live.com
 euc-visio-telemetry.officeapps.live.com
 euc-word-telemetry.officeapps.live.com
+eurppc-excel-telemetry.officeapps.live.com
+eurppc-powerpoint-telemetry.officeapps.live.com
 excel-telemetry.officeapps.live.com
+ffc-word-telemetry.officeapps.live.com
+frc-visio-telemetry.officeapps.live.com
 nexus.officeapps.live.com
 nexusrules.officeapps.live.com
 powerpoint-telemetry.officeapps.live.com
@@ -46,6 +51,8 @@ office.events.data.microsoft.com
 office-c.events.data.microsoft.com
 office-g.events.data.microsoft.com
 pf.events.data.microsoft.com
+rps-dek-collector.events.data.microsoft.com
+donotuse.rps-dek-collector.events.data.microsoft.com
 server.events.data.microsoft.com
 tb.events.data.microsoft.com
 teams.events.data.microsoft.com
@@ -84,6 +91,11 @@ events-sandbox.data.msn.com
 measure.office.com
 measure.office.net
 fp.measure.office.com
+ce2617d2a3a1a6b03e6b908e5fde808f.fp.measure.office.com
+config.fp.measure.office.com
+graph-next.fp.measure.office.com
+upload.fp.measure.office.com
+upload2.fp.measure.office.com
 nel.measure.office.net
 ecs.nel.measure.office.net
 excelonline.nel.measure.office.net
@@ -95,10 +107,13 @@ onenoteonline.nel.measure.office.net
 spo.nel.measure.office.net
 teams.nel.measure.office.net
 tfl.nel.measure.office.net
+visioonline.nel.measure.office.net
 wordonline.nel.measure.office.net
 nelsdf.measure.office.net
 exo.nelsdf.measure.office.net
 powerpointonline.nelsdf.measure.office.net
+sdwan.measure.office.com
+wan.measure.office.com
 hubblecontent.osi.office.net
 apac.events.data.trafficmanager.net
 aria.events.data.trafficmanager.net
@@ -107,6 +122,7 @@ global.aria.events.data.trafficmanager.net
 us.aria.events.data.trafficmanager.net
 asimov.events.data.trafficmanager.net
 global.asimov.events.data.trafficmanager.net
+au.events.data.trafficmanager.net
 blobcollector.events.data.trafficmanager.net
 eu.blobcollector.events.data.trafficmanager.net
 emea.events.data.trafficmanager.net

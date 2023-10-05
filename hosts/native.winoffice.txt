@@ -3,18 +3,23 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 22 Sep 2023 10:39 UTC
-# Version: 2023.0922.1039.28
+# Last modified: 05 Oct 2023 19:17 UTC
+# Version: 2023.1005.1917.38
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 122
+# Number of entries: 138
 #
 0.0.0.0 nexusrules.live.com
 0.0.0.0 cac-visio-telemetry.officeapps.live.com
+0.0.0.0 dec-visio-telemetry.officeapps.live.com
 0.0.0.0 euc-excel-telemetry.officeapps.live.com
 0.0.0.0 euc-powerpoint-telemetry.officeapps.live.com
 0.0.0.0 euc-visio-telemetry.officeapps.live.com
 0.0.0.0 euc-word-telemetry.officeapps.live.com
+0.0.0.0 eurppc-excel-telemetry.officeapps.live.com
+0.0.0.0 eurppc-powerpoint-telemetry.officeapps.live.com
 0.0.0.0 excel-telemetry.officeapps.live.com
+0.0.0.0 ffc-word-telemetry.officeapps.live.com
+0.0.0.0 frc-visio-telemetry.officeapps.live.com
 0.0.0.0 nexus.officeapps.live.com
 0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 powerpoint-telemetry.officeapps.live.com
@@ -46,6 +51,8 @@
 0.0.0.0 office-c.events.data.microsoft.com
 0.0.0.0 office-g.events.data.microsoft.com
 0.0.0.0 pf.events.data.microsoft.com
+0.0.0.0 rps-dek-collector.events.data.microsoft.com
+0.0.0.0 donotuse.rps-dek-collector.events.data.microsoft.com
 0.0.0.0 server.events.data.microsoft.com
 0.0.0.0 tb.events.data.microsoft.com
 0.0.0.0 teams.events.data.microsoft.com
@@ -84,6 +91,11 @@
 0.0.0.0 measure.office.com
 0.0.0.0 measure.office.net
 0.0.0.0 fp.measure.office.com
+0.0.0.0 ce2617d2a3a1a6b03e6b908e5fde808f.fp.measure.office.com
+0.0.0.0 config.fp.measure.office.com
+0.0.0.0 graph-next.fp.measure.office.com
+0.0.0.0 upload.fp.measure.office.com
+0.0.0.0 upload2.fp.measure.office.com
 0.0.0.0 nel.measure.office.net
 0.0.0.0 ecs.nel.measure.office.net
 0.0.0.0 excelonline.nel.measure.office.net
@@ -95,10 +107,13 @@
 0.0.0.0 spo.nel.measure.office.net
 0.0.0.0 teams.nel.measure.office.net
 0.0.0.0 tfl.nel.measure.office.net
+0.0.0.0 visioonline.nel.measure.office.net
 0.0.0.0 wordonline.nel.measure.office.net
 0.0.0.0 nelsdf.measure.office.net
 0.0.0.0 exo.nelsdf.measure.office.net
 0.0.0.0 powerpointonline.nelsdf.measure.office.net
+0.0.0.0 sdwan.measure.office.com
+0.0.0.0 wan.measure.office.com
 0.0.0.0 hubblecontent.osi.office.net
 0.0.0.0 apac.events.data.trafficmanager.net
 0.0.0.0 aria.events.data.trafficmanager.net
@@ -107,6 +122,7 @@
 0.0.0.0 us.aria.events.data.trafficmanager.net
 0.0.0.0 asimov.events.data.trafficmanager.net
 0.0.0.0 global.asimov.events.data.trafficmanager.net
+0.0.0.0 au.events.data.trafficmanager.net
 0.0.0.0 blobcollector.events.data.trafficmanager.net
 0.0.0.0 eu.blobcollector.events.data.trafficmanager.net
 0.0.0.0 emea.events.data.trafficmanager.net
