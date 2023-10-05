@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1696533420 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1696534020 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Windows/Office Tracker DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 05 Oct 2023 19:17 UTC
-; Version: 2023.1005.1917.38
+; Last modified: 05 Oct 2023 19:27 UTC
+; Version: 2023.1005.1927.41
 ; Syntax: RPZ
-; Number of entries: 178
+; Number of entries: 146
 ;
 events.data.msn.cn CNAME .
 *.events.data.msn.cn CNAME .
@@ -142,42 +142,10 @@ measure.office.net CNAME .
 *.measure.office.net CNAME .
 hubblecontent.osi.office.net CNAME .
 *.hubblecontent.osi.office.net CNAME .
-apac.events.data.trafficmanager.net CNAME .
-*.apac.events.data.trafficmanager.net CNAME .
-aria.events.data.trafficmanager.net CNAME .
-*.aria.events.data.trafficmanager.net CNAME .
-asimov.events.data.trafficmanager.net CNAME .
-*.asimov.events.data.trafficmanager.net CNAME .
-au.events.data.trafficmanager.net CNAME .
-*.au.events.data.trafficmanager.net CNAME .
-blobcollector.events.data.trafficmanager.net CNAME .
-*.blobcollector.events.data.trafficmanager.net CNAME .
-emea.events.data.trafficmanager.net CNAME .
-*.emea.events.data.trafficmanager.net CNAME .
-eu.events.data.trafficmanager.net CNAME .
-*.eu.events.data.trafficmanager.net CNAME .
-jp.events.data.trafficmanager.net CNAME .
-*.jp.events.data.trafficmanager.net CNAME .
-noam.events.data.trafficmanager.net CNAME .
-*.noam.events.data.trafficmanager.net CNAME .
-pf.events.data.trafficmanager.net CNAME .
-*.pf.events.data.trafficmanager.net CNAME .
-server.events.data.trafficmanager.net CNAME .
-*.server.events.data.trafficmanager.net CNAME .
-tb.events.data.trafficmanager.net CNAME .
-*.tb.events.data.trafficmanager.net CNAME .
-uk.events.data.trafficmanager.net CNAME .
-*.uk.events.data.trafficmanager.net CNAME .
-us.events.data.trafficmanager.net CNAME .
-*.us.events.data.trafficmanager.net CNAME .
 legacywatson.trafficmanager.net CNAME .
 *.legacywatson.trafficmanager.net CNAME .
 o365diagtelemetry.trafficmanager.net CNAME .
 *.o365diagtelemetry.trafficmanager.net CNAME .
-office-events-data.trafficmanager.net CNAME .
-*.office-events-data.trafficmanager.net CNAME .
-teams-events-data.trafficmanager.net CNAME .
-*.teams-events-data.trafficmanager.net CNAME .
 ceuswatcab01.blob.core.windows.net CNAME .
 *.ceuswatcab01.blob.core.windows.net CNAME .
 ceuswatcab02.blob.core.windows.net CNAME .
