@@ -3,11 +3,20 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 22 Sep 2023 10:38 UTC
-# Version: 2023.0922.1038.13
+# Last modified: 05 Oct 2023 18:41 UTC
+# Version: 2023.1005.1841.32
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 257
+# Number of entries: 266
 #
+0.0.0.0 bugsnag.appstore.a2z.com
+0.0.0.0 aca.bugsnag.appstore.a2z.com
+0.0.0.0 notify.aca.bugsnag.appstore.a2z.com
+0.0.0.0 firetv.bugsnag.appstore.a2z.com
+0.0.0.0 notify.firetv.bugsnag.appstore.a2z.com
+0.0.0.0 aca.ftv.bugsnag.appstore.a2z.com
+0.0.0.0 notify.aca.ftv.bugsnag.appstore.a2z.com
+0.0.0.0 notify.bugsnag.appstore.a2z.com
+0.0.0.0 sessions.bugsnag.appstore.a2z.com
 0.0.0.0 forester.a2z.com
 0.0.0.0 prod.eu-west-1.forester.a2z.com
 0.0.0.0 endpoint.prod.eu-west-1.forester.a2z.com

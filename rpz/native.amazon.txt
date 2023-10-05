@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1695379080 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1696531260 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Amazon Tracker DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 22 Sep 2023 10:38 UTC
-; Version: 2023.0922.1038.13
+; Last modified: 05 Oct 2023 18:41 UTC
+; Version: 2023.1005.1841.32
 ; Syntax: RPZ
-; Number of entries: 324
+; Number of entries: 326
 ;
 advertising.amazon.ae CNAME .
 *.advertising.amazon.ae CNAME .
@@ -46,6 +46,8 @@ fls-cn.amazon.cn CNAME .
 *.fls-cn.amazon.cn CNAME .
 unagi.amazon.cn CNAME .
 *.unagi.amazon.cn CNAME .
+bugsnag.appstore.a2z.com CNAME .
+*.bugsnag.appstore.a2z.com CNAME .
 forester.a2z.com CNAME .
 *.forester.a2z.com CNAME .
 new-telemetry.insights.video.a2z.com CNAME .
