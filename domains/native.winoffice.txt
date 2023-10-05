@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 05 Oct 2023 19:27 UTC
-# Version: 2023.1005.1927.41
+# Last modified: 05 Oct 2023 19:49 UTC
+# Version: 2023.1005.1949.27
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 115
+# Number of entries: 123
 #
 nexusrules.live.com
 cac-visio-telemetry.officeapps.live.com
@@ -115,8 +115,16 @@ powerpointonline.nelsdf.measure.office.net
 sdwan.measure.office.com
 wan.measure.office.com
 hubblecontent.osi.office.net
+apac.events.data.trafficmanager.net
+blobcollector.events.data.trafficmanager.net
+eu.blobcollector.events.data.trafficmanager.net
+emea.events.data.trafficmanager.net
+noam.events.data.trafficmanager.net
+server.events.data.trafficmanager.net
 legacywatson.trafficmanager.net
 o365diagtelemetry.trafficmanager.net
+office-events-data.trafficmanager.net
+teams-events-data.trafficmanager.net
 ceuswatcab01.blob.core.windows.net
 ceuswatcab02.blob.core.windows.net
 eaus2watcab01.blob.core.windows.net
