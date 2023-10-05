@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1696459560 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1696502520 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Oct 2023 22:46 UTC
-; Version: 2023.1004.2246.20
+; Last modified: 05 Oct 2023 10:42 UTC
+; Version: 2023.1005.1042.02
 ; Syntax: RPZ
-; Number of entries: 20208
+; Number of entries: 20166
 ;
 bitcoin360.ai CNAME .
 *.bitcoin360.ai CNAME .
@@ -1258,12 +1258,8 @@ vamps.at CNAME .
 *.vamps.at CNAME .
 vartis.at CNAME .
 *.vartis.at CNAME .
-vatan.at CNAME .
-*.vatan.at CNAME .
 veja.at CNAME .
 *.veja.at CNAME .
-vejaaustria.at CNAME .
-*.vejaaustria.at CNAME .
 vejaosterreich.at CNAME .
 *.vejaosterreich.at CNAME .
 vejaschuhe.at CNAME .
@@ -1288,8 +1284,6 @@ vivobarefootoutlet.at CNAME .
 *.vivobarefootoutlet.at CNAME .
 vivobarefootsale.at CNAME .
 *.vivobarefootsale.at CNAME .
-vnews.at CNAME .
-*.vnews.at CNAME .
 vontirolywood.at CNAME .
 *.vontirolywood.at CNAME .
 vsmitterdorf-raab.at CNAME .
@@ -1310,8 +1304,6 @@ weingut-werner.at CNAME .
 *.weingut-werner.at CNAME .
 welpenkaufen.at CNAME .
 *.welpenkaufen.at CNAME .
-welstv.at CNAME .
-*.welstv.at CNAME .
 whitetigersclan.at CNAME .
 *.whitetigersclan.at CNAME .
 wien-buero.at CNAME .
@@ -1324,20 +1316,14 @@ willis-forum.at CNAME .
 *.willis-forum.at CNAME .
 wirtshaus-schoeneck.at CNAME .
 *.wirtshaus-schoeneck.at CNAME .
-wohlfuehl.at CNAME .
-*.wohlfuehl.at CNAME .
 wohlwohnen.at CNAME .
 *.wohlwohnen.at CNAME .
 wohnungdirekt.at CNAME .
 *.wohnungdirekt.at CNAME .
-womenatwork.at CNAME .
-*.womenatwork.at CNAME .
 xn--drmartensshopsterreich-6hc.at CNAME .
 *.xn--drmartensshopsterreich-6hc.at CNAME .
 xn--salomonsterreich-swb.at CNAME .
 *.xn--salomonsterreich-swb.at CNAME .
-xxxlcatering.at CNAME .
-*.xxxlcatering.at CNAME .
 yellout.at CNAME .
 *.yellout.at CNAME .
 yogabaum.at CNAME .
@@ -1354,8 +1340,6 @@ zauchensee-altenmarkt.at CNAME .
 *.zauchensee-altenmarkt.at CNAME .
 zeidler-stapler.at CNAME .
 *.zeidler-stapler.at CNAME .
-zentralorgan.at CNAME .
-*.zentralorgan.at CNAME .
 zockertraum.at CNAME .
 *.zockertraum.at CNAME .
 zoodom.at CNAME .
@@ -4516,8 +4500,6 @@ einayah.com CNAME .
 *.einayah.com CNAME .
 eisschild.com CNAME .
 *.eisschild.com CNAME .
-ekehau.com CNAME .
-*.ekehau.com CNAME .
 eko-immo.com CNAME .
 *.eko-immo.com CNAME .
 ekserena.com CNAME .
@@ -7278,6 +7260,8 @@ leboulove.com CNAME .
 *.leboulove.com CNAME .
 lecohealth.com CNAME .
 *.lecohealth.com CNAME .
+legalhighlabs.com CNAME .
+*.legalhighlabs.com CNAME .
 legleave.com CNAME .
 *.legleave.com CNAME .
 leisure-bagssales.com CNAME .
@@ -13342,8 +13326,6 @@ vintage-trendy.com CNAME .
 *.vintage-trendy.com CNAME .
 vintageusfurniture.com CNAME .
 *.vintageusfurniture.com CNAME .
-vinusnow.com CNAME .
-*.vinusnow.com CNAME .
 vip-cigarette.com CNAME .
 *.vip-cigarette.com CNAME .
 vipkickz.com CNAME .
@@ -13382,10 +13364,6 @@ vivobarefootportugaloutlet.com CNAME .
 *.vivobarefootportugaloutlet.com CNAME .
 vivobarefootschweizch.com CNAME .
 *.vivobarefootschweizch.com CNAME .
-vivobarefotosterreich.com CNAME .
-*.vivobarefotosterreich.com CNAME .
-vivoberefotberlin.com CNAME .
-*.vivoberefotberlin.com CNAME .
 vivoshoesnz.com CNAME .
 *.vivoshoesnz.com CNAME .
 vivpetsupply.com CNAME .
@@ -13458,8 +13436,6 @@ vogueussupplier.com CNAME .
 *.vogueussupplier.com CNAME .
 volk-reifen.com CNAME .
 *.volk-reifen.com CNAME .
-vollmer-replica.com CNAME .
-*.vollmer-replica.com CNAME .
 vomatmotorrat.com CNAME .
 *.vomatmotorrat.com CNAME .
 vongano.com CNAME .
@@ -13568,8 +13544,6 @@ wearejaycobrand.com CNAME .
 *.wearejaycobrand.com CNAME .
 wearphilliplim.com CNAME .
 *.wearphilliplim.com CNAME .
-wearsdepot.com CNAME .
-*.wearsdepot.com CNAME .
 wearsessentiel.com CNAME .
 *.wearsessentiel.com CNAME .
 webbusinessalerts.com CNAME .
@@ -13696,8 +13670,6 @@ wisevests.com CNAME .
 *.wisevests.com CNAME .
 reiseweltat6.wixsite.com CNAME .
 *.reiseweltat6.wixsite.com CNAME .
-wndirectusa.com CNAME .
-*.wndirectusa.com CNAME .
 wohanm.com CNAME .
 *.wohanm.com CNAME .
 wollriben.com CNAME .
@@ -13834,8 +13806,6 @@ yoursafeinvestment.com CNAME .
 *.yoursafeinvestment.com CNAME .
 yoursportoutfit.com CNAME .
 *.yoursportoutfit.com CNAME .
-ysotramaq.com CNAME .
-*.ysotramaq.com CNAME .
 ytcycling.com CNAME .
 *.ytcycling.com CNAME .
 yuan-paygroup.com CNAME .
@@ -13898,8 +13868,6 @@ zinpp.com CNAME .
 *.zinpp.com CNAME .
 ziplighters.com CNAME .
 *.ziplighters.com CNAME .
-zkuspe.com CNAME .
-*.zkuspe.com CNAME .
 zlitefm.com CNAME .
 *.zlitefm.com CNAME .
 zmbshop.com CNAME .
@@ -13936,8 +13904,6 @@ zoneustoys.com CNAME .
 *.zoneustoys.com CNAME .
 zonevogue-us.com CNAME .
 *.zonevogue-us.com CNAME .
-zonlaythuo.com CNAME .
-*.zonlaythuo.com CNAME .
 zstarstore.com CNAME .
 *.zstarstore.com CNAME .
 zubehorstiefel.com CNAME .
@@ -15162,6 +15128,8 @@ fahrrad-herrmans.de CNAME .
 *.fahrrad-herrmans.de CNAME .
 fahrrad-paradies24.de CNAME .
 *.fahrrad-paradies24.de CNAME .
+fahrradbekleidung-onlines.de CNAME .
+*.fahrradbekleidung-onlines.de CNAME .
 fahrradcheck24.de CNAME .
 *.fahrradcheck24.de CNAME .
 fahrradmarkise.de CNAME .
@@ -15200,6 +15168,8 @@ fastyslim.de CNAME .
 *.fastyslim.de CNAME .
 fauke.de CNAME .
 *.fauke.de CNAME .
+fcirlich.de CNAME .
+*.fcirlich.de CNAME .
 federnd-fit.de CNAME .
 *.federnd-fit.de CNAME .
 feher-buch.de CNAME .
@@ -17914,8 +17884,6 @@ versandhaus-kohler.de CNAME .
 *.versandhaus-kohler.de CNAME .
 vespin24.de CNAME .
 *.vespin24.de CNAME .
-vessischuhe.de CNAME .
-*.vessischuhe.de CNAME .
 vetapotheke-shop.de CNAME .
 *.vetapotheke-shop.de CNAME .
 viagra-pille-kaufen.de CNAME .
@@ -17986,8 +17954,6 @@ voltero.de CNAME .
 *.voltero.de CNAME .
 voltus-elektroshop.de CNAME .
 *.voltus-elektroshop.de CNAME .
-vomovi.de CNAME .
-*.vomovi.de CNAME .
 vonpundl.de CNAME .
 *.vonpundl.de CNAME .
 voodoo-cable.de CNAME .
@@ -18038,8 +18004,6 @@ webmarker.de CNAME .
 *.webmarker.de CNAME .
 webyeh.de CNAME .
 *.webyeh.de CNAME .
-weddingspecials.de CNAME .
-*.weddingspecials.de CNAME .
 weflix.de CNAME .
 *.weflix.de CNAME .
 weigelt-heizung.de CNAME .
@@ -19596,8 +19560,6 @@ volcomeu.shop CNAME .
 *.volcomeu.shop CNAME .
 vosen.shop CNAME .
 *.vosen.shop CNAME .
-walterbaby.shop CNAME .
-*.walterbaby.shop CNAME .
 wayhou.shop CNAME .
 *.wayhou.shop CNAME .
 wbrandplus.shop CNAME .
@@ -19860,8 +19822,6 @@ winterdealss.store CNAME .
 *.winterdealss.store CNAME .
 wodify.store CNAME .
 *.wodify.store CNAME .
-womenboutiqueofficial.store CNAME .
-*.womenboutiqueofficial.store CNAME .
 womensjewelry.store CNAME .
 *.womensjewelry.store CNAME .
 wonderbacks.store CNAME .
@@ -20216,7 +20176,5 @@ readyshop.xyz CNAME .
 *.readyshop.xyz CNAME .
 vipbusyaa.xyz CNAME .
 *.vipbusyaa.xyz CNAME .
-yalecollectio.xyz CNAME .
-*.yalecollectio.xyz CNAME .
 worldwidemoving.co.za CNAME .
 *.worldwidemoving.co.za CNAME .
