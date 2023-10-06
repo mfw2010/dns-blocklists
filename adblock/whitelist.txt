@@ -2089,12 +2089,6 @@
 @@|recommender*.scarabresearch.com^
 @@|images.cdn.scarabresearch.com^
 
-! Breaks paypal pay process on some german shopping sites
-@@|siteintercept.qualtrics.com^
-@@|siteintercept.qprod2.net^
-@@|prodlb.siteintercept.qualtrics.com.cdn.cloudflare.net^
-@@|*paypal*.siteintercept.qualtrics.com^
-
 ! Aim Lab aimlab.gg passwort reset
 @@|ct.sendgrid.net^
 
@@ -5397,4 +5391,24 @@
 ! https://github.com/hagezi/dns-blocklists/issues/1663
 @@|humansecurity.com^
 @@|www.humansecurity.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1670
+@@|tunnels.api.visualstudio.com^
+@@|devtunnels.ms^
+@@|www.devtunnels.ms^
+
+! https://github.com/hagezi/dns-blocklists/issues/1666
+@@|rebrand.ly^
+@@|www.rebrand.ly^
+
+! https://github.com/hagezi/dns-blocklists/issues/1667
+@@|ziffdavis.com^
+@@|www.ziffdavis.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1669
+@@|goo.su^
+@@|www.goo.su^
+
+! pizzamann-bringdienst.de
+@@|pizza7.jelastic.dogado.eu^
 
