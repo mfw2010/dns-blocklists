@@ -154,7 +154,6 @@ https://raw.githubusercontent.com/hufilter/hufilter/master/hufilter.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antidynamicdns.txt
 https://raw.githubusercontent.com/iam-py-test/vxvault_filter/main/domains_file.txt
-https://raw.githubusercontent.com/ihgalis/pihole_collection/master/antimalwarephishing.txt
 https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/scams.txt
 https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/hosters.txt
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
