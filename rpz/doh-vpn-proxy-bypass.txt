@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1696458300 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1696674180 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 04 Oct 2023 22:25 UTC
-; Version: 2023.1004.2225.18
+; Last modified: 07 Oct 2023 10:23 UTC
+; Version: 2023.1007.1023.31
 ; Syntax: RPZ
-; Number of entries: 5196
+; Number of entries: 5192
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -4263,8 +4263,6 @@ ikhebdorst.nl CNAME .
 *.ikhebdorst.nl CNAME .
 ipoac.nl CNAME .
 *.ipoac.nl CNAME .
-doh.jeroenhd.nl CNAME .
-*.doh.jeroenhd.nl CNAME .
 dns.joey01245.nl CNAME .
 *.dns.joey01245.nl CNAME .
 meganerd.nl CNAME .
@@ -5145,8 +5143,6 @@ tj.jamesxue.xyz CNAME .
 *.tj.jamesxue.xyz CNAME .
 judua3rtinpst0s.xyz CNAME .
 *.judua3rtinpst0s.xyz CNAME .
-adguard.kantinyoyok.xyz CNAME .
-*.adguard.kantinyoyok.xyz CNAME .
 mobrain.xyz CNAME .
 *.mobrain.xyz CNAME .
 ninjaweb.xyz CNAME .
