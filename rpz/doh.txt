@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1696415340 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1696674300 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 04 Oct 2023 10:29 UTC
-; Version: 2023.1004.1029.43
+; Last modified: 07 Oct 2023 10:25 UTC
+; Version: 2023.1007.1025.48
 ; Syntax: RPZ
-; Number of entries: 1606
+; Number of entries: 1602
 ;
 shield.afixer.app CNAME .
 *.shield.afixer.app CNAME .
@@ -1257,8 +1257,6 @@ ad1.heronet.nl CNAME .
 *.ad1.heronet.nl CNAME .
 ipoac.nl CNAME .
 *.ipoac.nl CNAME .
-doh.jeroenhd.nl CNAME .
-*.doh.jeroenhd.nl CNAME .
 dns.joey01245.nl CNAME .
 *.dns.joey01245.nl CNAME .
 meganerd.nl CNAME .
@@ -1595,8 +1593,6 @@ ivnkn.xyz CNAME .
 *.ivnkn.xyz CNAME .
 tj.jamesxue.xyz CNAME .
 *.tj.jamesxue.xyz CNAME .
-adguard.kantinyoyok.xyz CNAME .
-*.adguard.kantinyoyok.xyz CNAME .
 dns.nixnet.xyz CNAME .
 *.dns.nixnet.xyz CNAME .
 lux1.nixnet.xyz CNAME .
