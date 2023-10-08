@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1696681860 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1696724640 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Personal DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Oct 2023 12:31 UTC
-; Version: 2023.1007.1231.14
+; Last modified: 08 Oct 2023 00:24 UTC
+; Version: 2023.1008.0024.38
 ; Syntax: RPZ
-; Number of entries: 112270
+; Number of entries: 112278
 ;
 marketing.globalpointofcare.abbott CNAME .
 *.marketing.globalpointofcare.abbott CNAME .
@@ -24142,8 +24142,6 @@ m.delltechnologies.com CNAME .
 *.m.delltechnologies.com CNAME .
 sm.delltechnologies.com CNAME .
 *.sm.delltechnologies.com CNAME .
-delmonicositaliansteakhouse.com CNAME .
-*.delmonicositaliansteakhouse.com CNAME .
 delmovip.com CNAME .
 *.delmovip.com CNAME .
 lp.response.deloitte.com CNAME .
@@ -24476,8 +24474,6 @@ analytics.device-services.com CNAME .
 *.analytics.device-services.com CNAME .
 device9.com CNAME .
 *.device9.com CNAME .
-devicepitstop.com CNAME .
-*.devicepitstop.com CNAME .
 devilwholehorse.com CNAME .
 *.devilwholehorse.com CNAME .
 cdn.devlooped.com CNAME .
@@ -27060,8 +27056,6 @@ smetrics.element14.com CNAME .
 *.smetrics.element14.com CNAME .
 elementarydrypoverty.com CNAME .
 *.elementarydrypoverty.com CNAME .
-elephantdevout.com CNAME .
-*.elephantdevout.com CNAME .
 elephantqueue.com CNAME .
 *.elephantqueue.com CNAME .
 elevatedidentify.com CNAME .
@@ -47332,6 +47326,8 @@ track.newtomoney.com CNAME .
 *.track.newtomoney.com CNAME .
 newtrendmicro.com CNAME .
 *.newtrendmicro.com CNAME .
+c.newyorker.com CNAME .
+*.c.newyorker.com CNAME .
 sstats.newyorker.com CNAME .
 *.sstats.newyorker.com CNAME .
 st.newyorklife.com CNAME .
@@ -88852,6 +88848,8 @@ ceekougy.net CNAME .
 *.ceekougy.net CNAME .
 cell-phones-tracker.net CNAME .
 *.cell-phones-tracker.net CNAME .
+a4.censor.net CNAME .
+*.a4.censor.net CNAME .
 ceuhbwj.net CNAME .
 *.ceuhbwj.net CNAME .
 ch3l.net CNAME .
@@ -105202,6 +105200,8 @@ connect-lb.islay.tech CNAME .
 *.connect-lb.islay.tech CNAME .
 luckyads.tech CNAME .
 *.luckyads.tech CNAME .
+sentry.maudau.tech CNAME .
+*.sentry.maudau.tech CNAME .
 mesangefanwise.tech CNAME .
 *.mesangefanwise.tech CNAME .
 natantkidders.tech CNAME .
@@ -106982,6 +106982,8 @@ berthformttet.com.ua CNAME .
 *.berthformttet.com.ua CNAME .
 camewiththe.com.ua CNAME .
 *.camewiththe.com.ua CNAME .
+cralodas.com.ua CNAME .
+*.cralodas.com.ua CNAME .
 cream-dream.com.ua CNAME .
 *.cream-dream.com.ua CNAME .
 dchoseitfromt.com.ua CNAME .
@@ -107068,6 +107070,8 @@ ylasthepoityelthens.com.ua CNAME .
 *.ylasthepoityelthens.com.ua CNAME .
 chnu.edu.ua CNAME .
 *.chnu.edu.ua CNAME .
+data-api.eva.ua CNAME .
+*.data-api.eva.ua CNAME .
 grandua.ua CNAME .
 *.grandua.ua CNAME .
 hit.ua CNAME .
@@ -107100,6 +107104,8 @@ obkom.net.ua CNAME .
 *.obkom.net.ua CNAME .
 counter.nv.ua CNAME .
 *.counter.nv.ua CNAME .
+matomo.nv.ua CNAME .
+*.matomo.nv.ua CNAME .
 remp.nv.ua CNAME .
 *.remp.nv.ua CNAME .
 pabxoe.olx.ua CNAME .
@@ -107114,6 +107120,8 @@ stats.rbc.ua CNAME .
 *.stats.rbc.ua CNAME .
 informers.sinoptik.ua CNAME .
 *.informers.sinoptik.ua CNAME .
+assay.tsn.ua CNAME .
+*.assay.tsn.ua CNAME .
 cdn.umh.ua CNAME .
 *.cdn.umh.ua CNAME .
 uscc.ua CNAME .
