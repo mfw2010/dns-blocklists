@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 05 Oct 2023 18:41 UTC
-# Version: 2023.1005.1841.32
+# Last modified: 08 Oct 2023 10:42 UTC
+# Version: 2023.1008.1042.33
 # Syntax: Domains (without subdomains)
-# Number of entries: 163
+# Number of entries: 180
 #
 bugsnag.appstore.a2z.com
 forester.a2z.com
@@ -134,9 +134,26 @@ z-eu.amazon-adsystem.com
 z-fe.amazon-adsystem.com
 z-in.amazon-adsystem.com
 z-na.amazon-adsystem.com
+kinesis.ap-northeast-1.amazonaws.com
+kinesis.ap-northeast-2.amazonaws.com
+kinesis.ap-south-1.amazonaws.com
+kinesis.ap-southeast-1.amazonaws.com
+kinesis.ap-southeast-2.amazonaws.com
+kinesis.ap-southeast-3.amazonaws.com
+kinesis.ca-central-1.amazonaws.com
+kinesis.eu-central-1.amazonaws.com
+kinesis.eu-north-1.amazonaws.com
+kinesis.eu-west-1.amazonaws.com
+kinesis.eu-west-2.amazonaws.com
 alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
+kraken-measurements.s3-external-1.amazonaws.com
+kinesis.sa-east-1.amazonaws.com
+kinesis.us-east-1.amazonaws.com
 mobileanalytics.us-east-1.amazonaws.com
 alexa-mobile-analytics-configuration-prod.s3.us-east-1.amazonaws.com
+kinesis.us-east-2.amazonaws.com
+kinesis.us-west-1.amazonaws.com
+kinesis.us-west-2.amazonaws.com
 assoc-amazon.ca
 assoc-amazon.com
 assoc-amazon.de
