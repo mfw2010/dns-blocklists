@@ -405,11 +405,6 @@ services.gfe.nvidia.com
 # Proctorio
 *.proctor.io
 *.proctorio.com
-# Proctorio / Postbank
-bam.eu01.nr-data.net
-bam-eu01.cell.eu.nr-data.net
-tls12.eu01.nr-data.net.cdn.cloudflare.net
-fastly-tls12-bam.eu01.nr-data.net
 
 # Revenaced
 revanced.app
@@ -4969,4 +4964,14 @@ glitchtip.jgeek00.com
 live.flightservicesv2.datasavannah.com
 assets.flightservicesv2.datasavannah.com
 weatherservices.datasavannah.com
+
+# Video thumbnails
+assets-jpcust.jwpsrv.com
+
+# https://github.com/hagezi/dns-blocklists/issues/1687
+gateway.ipfs.io
+gateway.pinata.cloud
+
+# https://github.com/hagezi/dns-blocklists/issues/1689
+bigberthaoriginal.cz
 
