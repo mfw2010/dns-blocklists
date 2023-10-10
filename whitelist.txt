@@ -28,6 +28,7 @@ s3.amazonaws.com
 s3-*-w.amazonaws.com
 s3-*-w.*.amazonaws.com
 s3.dualstack.*.amazonaws.com
+*kinesis*.amazonaws.com
 
 # Amazon Devices
 *.acsechocaptiveportal.com
@@ -1149,8 +1150,9 @@ campaignmanager.netdirector.co.uk
 images.netdirector.co.uk
 payments*.netdirector.co.uk
 
-# tipico.de
+# tipico
 tipico.de
+tipico.com
 
 # track24.ru
 track24.ru
